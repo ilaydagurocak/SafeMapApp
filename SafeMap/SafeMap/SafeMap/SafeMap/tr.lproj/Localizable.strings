@@ -1,0 +1,157 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+
+
+
+language_title = "Dil Seçimi";
+language_subtitle = "SafeMap’i kullanmak istediğin dili seçebilirsin.";
+
+home_subtitle = "Güvende hissetmenin harita hali";
+button_login = "Giriş Yap";
+button_register = "Kayıt Ol";
+
+login_subtitle = "Güvenli alanları birlikte görünür kıl";
+login_email_placeholder = "E-posta";
+login_password_placeholder = "Şifre";
+login_no_account = "Hesabın yok mu? Kayıt ol";
+button_login = "Giriş Yap";
+
+register_title = "Aramıza Katıl";
+register_fullname_placeholder = "Ad Soyad";
+register_email_placeholder = "E-posta";
+register_password_placeholder = "Şifre";
+button_register_continue = "Kayıt Ol & Devam Et";
+
+home_search_placeholder = "Adres, semt veya mekan ara";
+
+settings_title = "Ayarlar";
+
+settings_edit_profile = "Bilgileri Düzenle";
+settings_trusted_contacts = "Güvenli Kişiler";
+settings_location = "Konum Ayarları";
+settings_notifications = "Bildirim Ayarları";
+settings_language = "Dili Değiştir";
+settings_my_reports = "Eklenen Yorumlar";
+settings_about = "SafeMap Hakkında";
+settings_feedback = "Geri Bildirim Gönder";
+
+settings_logout = "Hesaptan Çıkış Yap";
+settings_delete_account = "Hesabı Sil";
+
+logout_title = "Hesaptan Çıkış Yap";
+logout_message = "Hesabından çıkış yapmak istediğine emin misin?";
+logout_confirm = "Çıkış Yap";
+
+delete_title = "Hesabı Sil";
+delete_message = "Bu işlem geri alınamaz. Hesabını silmek istediğine emin misin?";
+delete_confirm = "Hesabı Sil";
+
+cancel = "Vazgeç";
+
+edit_profile_title = "Bilgileri Düzenle";
+
+edit_profile_fullname = "Ad Soyad";
+edit_profile_phone = "Telefon Numarası";
+edit_profile_phone_placeholder = "Telefon";
+edit_profile_age = "Yaş";
+edit_profile_gender = "Cinsiyet";
+
+gender_female = "Kadın";
+gender_male = "Erkek";
+
+save = "Kaydet";
+
+trusted_contacts_title = "Güvenli Kişiler";
+trusted_contacts_info = "Acil durumlarda iletişime geçilecek kişileri buraya ekleyebilirsin.";
+trusted_contacts_add = "Kişi Ekle";
+
+location_settings_title = "Konum Ayarları";
+location_settings_info = "SafeMap, çevrendeki güvenli ve riskli alanları gösterebilmek için konum iznine ihtiyaç duyar. Konumun yalnızca harita üzerinde güvenli bölgeleri göstermek amacıyla kullanılır.";
+location_settings_open = "Ayarlar’a Git";
+
+notification_settings_title = "Bildirim Ayarları";
+notification_main_toggle = "Uygulamadan bildirim al";
+notification_nearby_risks = "Yakınımdaki riskler";
+notification_trusted_alerts = "Güvenli kişilerden uyarılar";
+notification_info = "Bildirimleri kapattığında SafeMap seni çevrendeki riskler ve güvenli kişilerle ilgili uyarmaz.";
+
+my_reports_title = "Yorumlarım";
+my_reports_empty_title = "Henüz eklenmiş yorum yok";
+my_reports_empty_description = "Harita üzerinden bir bölgeye yorum eklediğinde burada görünecek.";
+
+about_title = "SafeMap Hakkında";
+about_what_title = "SafeMap Nedir?";
+about_description = "SafeMap, topluluk katkılarıyla güvenli ve riskli alanları görünür kılmayı amaçlayan bir harita uygulamasıdır.\n\nKullanıcılar, yaşadıkları deneyimleri paylaşarak çevrelerindeki bölgeler hakkında diğer insanları bilgilendirir. Amacımız, herkesin kendini daha güvende hissedebileceği bir dijital alan oluşturmaktır.";
+
+community_rules_title = "Topluluk Kuralları";
+
+rule_respect_title = "Saygılı Ol";
+rule_respect_desc = "Hakaret, tehdit ve nefret içeren içeriklere izin verilmez.";
+
+rule_truth_title = "Doğru Bilgi Paylaş";
+rule_truth_desc = "Yalnızca gerçek ve yaşanmış deneyimleri paylaş.";
+
+rule_privacy_title = "Gizliliğe Saygı";
+rule_privacy_desc = "Kişisel bilgileri, isimleri veya yüzleri paylaşma.";
+
+rule_protect_title = "Topluluğu Koru";
+rule_protect_desc = "Yanıltıcı veya uygunsuz içerikleri bildir.";
+
+rules_warning = "Kurallara uymayan içerikler kaldırılabilir ve hesaplar askıya alınabilir.";
+
+feedback_title = "Geri Bildirim";
+feedback_description = "Bizimle paylaşmak istediğin geri bildirimlerin";
+feedback_send_button = "Gönder";
+
+edit_profile_email = "E-posta";
+
+
+location_status_on = "Konum izni açık";
+location_status_off = "Konum izni kapalı";
+
+
+feedback_success_title = "Gönderildi";
+feedback_success_message = "Geri bildirimin için teşekkür ederiz.";
+feedback_mail_error = "Mail gönderilemedi. Lütfen cihazınızda Mail hesabı tanımlı olduğundan emin olun.";
+
+
+report_nav_title = "Yorum Ekle";
+report_title = "Bölge için yorum bırak";
+report_selected_location = "Seçilen konum";
+report_safety_question = "Bu bölge ne kadar güvenli?";
+report_safe = "Güvenli";
+report_medium = "Orta";
+report_unsafe = "Güvensiz";
+report_comment_title = "Yorum";
+report_submit = "Gönder";
+
+cluster_title = "Bölge Yorumları";
+cluster_average = "Ortalama";
+cluster_directions = "Yol Tarifi";
+
+done = "Bitti";
+cancel = "Vazgeç";
+
+
+safe = "Güvenli";
+medium_safe = "Orta Güvenli";
+unsafe = "Güvensiz";
+
+delete = "Sil";
+delete_report_title = "Yorumu Sil";
+delete_report_message = "Bu yorumu silmek istediğine emin misin?";
+delete_confirm = "Sil";
+cancel = "İptal";
+
+
+forgot_password = "Şifremi unuttum?";
+forgot_password_title = "Şifre Sıfırlama";
+forgot_password_description = "E-posta adresini gir, sana şifre sıfırlama bağlantısı gönderelim.";
+forgot_password_send = "Sıfırlama Maili Gönder";
+forgot_password_success_title = "Mail Gönderildi";
+forgot_password_success_message = "Şifre sıfırlama bağlantısı e-posta adresine gönderildi.";

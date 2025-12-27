@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Språkvalg";
+language_subtitle = "Du kan velge språket du ønsker å bruke SafeMap på.";
+
+home_subtitle = "Følelsen av trygghet på kartet";
+button_login = "Logg inn";
+button_register = "Registrer deg";
+
+login_subtitle = "La oss gjøre trygge steder synlige sammen";
+login_email_placeholder = "E-post";
+login_password_placeholder = "Passord";
+login_no_account = "Har du ingen konto? Registrer deg";
+button_login = "Logg inn";
+
+register_title = "Bli med oss";
+register_fullname_placeholder = "Fullt navn";
+register_email_placeholder = "E-post";
+register_password_placeholder = "Passord";
+button_register_continue = "Registrer deg og fortsett";
+
+home_search_placeholder = "Søk etter adresse, område eller sted";
+
+settings_title = "Innstillinger";
+
+settings_edit_profile = "Rediger profil";
+settings_trusted_contacts = "Pålitelige kontakter";
+settings_location = "Plasseringinnstillinger";
+settings_notifications = "Varslingsinnstillinger";
+settings_language = "Endre språk";
+settings_my_reports = "Lagt til rapporter";
+settings_about = "Om SafeMap";
+settings_feedback = "Send tilbakemelding";
+
+settings_logout = "Logg ut";
+settings_delete_account = "Slett konto";
+
+logout_title = "Logg ut";
+logout_message = "Er du sikker på at du vil logge ut av kontoen din?";
+logout_confirm = "Logg ut";
+
+delete_title = "Slett konto";
+delete_message = "Denne handlingen kan ikke angres. Er du sikker på at du vil slette kontoen din?";
+delete_confirm = "Slett konto";
+
+cancel = "Avbryt";
+
+edit_profile_title = "Rediger profil";
+
+edit_profile_fullname = "Fullt navn";
+edit_profile_phone = "Telefonnummer";
+edit_profile_phone_placeholder = "Telefon";
+edit_profile_age = "Alder";
+edit_profile_gender = "Kjønn";
+
+gender_female = "Kvinne";
+gender_male = "Mann";
+
+save = "Lagre";
+
+trusted_contacts_title = "Pålitelige kontakter";
+trusted_contacts_info = "Her kan du legge til personer som kontaktes i nødsituasjoner.";
+trusted_contacts_add = "Legg til kontakt";
+
+location_settings_title = "Plasseringinnstillinger";
+location_settings_info = "SafeMap trenger tillatelse til posisjon for å vise trygge og risikofylte områder rundt deg. Posisjonen din brukes kun til å vise trygge områder på kartet.";
+location_settings_open = "Gå til innstillinger";
+
+notification_settings_title = "Varslingsinnstillinger";
+notification_main_toggle = "Motta varsler fra appen";
+notification_nearby_risks = "Risikoer i nærheten";
+notification_trusted_alerts = "Varsler fra pålitelige kontakter";
+notification_info = "Når varsler er slått av, vil ikke SafeMap varsle deg om nærliggende risikoer eller pålitelige kontakter.";
+
+my_reports_title = "Mine rapporter";
+my_reports_empty_title = "Ingen rapporter lagt til ennå";
+my_reports_empty_description = "Når du legger til en rapport for et område på kartet, vil den vises her.";
+
+about_title = "Om SafeMap";
+about_what_title = "Hva er SafeMap?";
+about_description = "SafeMap er en kartapplikasjon som har som mål å gjøre trygge og risikofylte områder synlige gjennom bidrag fra fellesskapet.\n\nBrukere deler sine erfaringer for å informere andre om omgivelsene sine. Målet vårt er å skape et digitalt rom der alle kan føle seg tryggere.";
+
+community_rules_title = "Fellesskapsregler";
+
+rule_respect_title = "Vis respekt";
+rule_respect_desc = "Støtende, truende eller hatefullt innhold er ikke tillatt.";
+
+rule_truth_title = "Del korrekt informasjon";
+rule_truth_desc = "Del kun ekte og personlige erfaringer.";
+
+rule_privacy_title = "Respekter personvernet";
+rule_privacy_desc = "Ikke del personlig informasjon, navn eller ansikter.";
+
+rule_protect_title = "Beskytt fellesskapet";
+rule_protect_desc = "Rapporter villedende eller upassende innhold.";
+
+rules_warning = "Innhold som bryter reglene kan bli fjernet og kontoer kan bli suspendert.";
+
+feedback_title = "Tilbakemelding";
+feedback_description = "Tilbakemeldingen du ønsker å dele med oss";
+feedback_send_button = "Send";
+
+edit_profile_email = "E-post";
+
+location_status_on = "Posisjonstillatelse er aktivert";
+location_status_off = "Posisjonstillatelse er deaktivert";
+
+feedback_success_title = "Sendt";
+feedback_success_message = "Takk for tilbakemeldingen.";
+feedback_mail_error = "E-post kunne ikke sendes. Sørg for at en e-postkonto er konfigurert på enheten din.";
+
+report_nav_title = "Legg til rapport";
+report_title = "Legg igjen en rapport for dette området";
+report_selected_location = "Valgt plassering";
+report_safety_question = "Hvor trygg er dette området?";
+report_safe = "Trygt";
+report_medium = "Middels";
+report_unsafe = "Utrygt";
+report_comment_title = "Kommentar";
+report_submit = "Send";
+
+cluster_title = "Områderapporter";
+cluster_average = "Gjennomsnitt";
+cluster_directions = "Veibeskrivelse";
+
+done = "Ferdig";
+cancel = "Avbryt";
+
+safe = "Trygt";
+medium_safe = "Moderat trygt";
+unsafe = "Utrygt";
+
+delete = "Slett";
+delete_report_title = "Slett rapport";
+delete_report_message = "Er du sikker på at du vil slette denne rapporten?";
+delete_confirm = "Slett";
+cancel = "Avbryt";
+
+forgot_password = "Glemt passord?";
+forgot_password_title = "Tilbakestill passord";
+forgot_password_description = "Skriv inn e-postadressen din, så sender vi deg en lenke for å tilbakestille passordet.";
+forgot_password_send = "Send tilbakestillings-e-post";
+forgot_password_success_title = "E-post sendt";
+forgot_password_success_message = "Lenken for tilbakestilling av passord er sendt til e-postadressen din.";
+

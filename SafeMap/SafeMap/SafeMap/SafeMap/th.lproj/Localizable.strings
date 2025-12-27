@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "เลือกภาษา";
+language_subtitle = "คุณสามารถเลือกภาษาที่ต้องการใช้ SafeMap ได้";
+
+home_subtitle = "ความรู้สึกปลอดภัยในรูปแบบแผนที่";
+button_login = "เข้าสู่ระบบ";
+button_register = "สมัครสมาชิก";
+
+login_subtitle = "มาร่วมกันทำให้พื้นที่ปลอดภัยมองเห็นได้ชัดเจน";
+login_email_placeholder = "อีเมล";
+login_password_placeholder = "รหัสผ่าน";
+login_no_account = "ยังไม่มีบัญชีใช่ไหม? สมัครสมาชิก";
+button_login = "เข้าสู่ระบบ";
+
+register_title = "เข้าร่วมกับเรา";
+register_fullname_placeholder = "ชื่อ-นามสกุล";
+register_email_placeholder = "อีเมล";
+register_password_placeholder = "รหัสผ่าน";
+button_register_continue = "สมัครสมาชิกและดำเนินการต่อ";
+
+home_search_placeholder = "ค้นหาที่อยู่ ย่าน หรือสถานที่";
+
+settings_title = "การตั้งค่า";
+
+settings_edit_profile = "แก้ไขโปรไฟล์";
+settings_trusted_contacts = "ผู้ติดต่อที่เชื่อถือได้";
+settings_location = "การตั้งค่าตำแหน่ง";
+settings_notifications = "การตั้งค่าการแจ้งเตือน";
+settings_language = "เปลี่ยนภาษา";
+settings_my_reports = "รายงานที่เพิ่มแล้ว";
+settings_about = "เกี่ยวกับ SafeMap";
+settings_feedback = "ส่งความคิดเห็น";
+
+settings_logout = "ออกจากระบบ";
+settings_delete_account = "ลบบัญชี";
+
+logout_title = "ออกจากระบบ";
+logout_message = "คุณแน่ใจหรือไม่ว่าต้องการออกจากบัญชีของคุณ?";
+logout_confirm = "ออกจากระบบ";
+
+delete_title = "ลบบัญชี";
+delete_message = "การดำเนินการนี้ไม่สามารถย้อนกลับได้ คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณ?";
+delete_confirm = "ลบบัญชี";
+
+cancel = "ยกเลิก";
+
+edit_profile_title = "แก้ไขโปรไฟล์";
+
+edit_profile_fullname = "ชื่อ-นามสกุล";
+edit_profile_phone = "หมายเลขโทรศัพท์";
+edit_profile_phone_placeholder = "โทรศัพท์";
+edit_profile_age = "อายุ";
+edit_profile_gender = "เพศ";
+
+gender_female = "หญิง";
+gender_male = "ชาย";
+
+save = "บันทึก";
+
+trusted_contacts_title = "ผู้ติดต่อที่เชื่อถือได้";
+trusted_contacts_info = "คุณสามารถเพิ่มบุคคลที่จะติดต่อในกรณีฉุกเฉินได้ที่นี่";
+trusted_contacts_add = "เพิ่มผู้ติดต่อ";
+
+location_settings_title = "การตั้งค่าตำแหน่ง";
+location_settings_info = "SafeMap ต้องการสิทธิ์การเข้าถึงตำแหน่งเพื่อแสดงพื้นที่ปลอดภัยและพื้นที่เสี่ยงรอบตัวคุณ ตำแหน่งของคุณจะถูกใช้เพื่อแสดงพื้นที่ปลอดภัยบนแผนที่เท่านั้น";
+location_settings_open = "ไปที่การตั้งค่า";
+
+notification_settings_title = "การตั้งค่าการแจ้งเตือน";
+notification_main_toggle = "รับการแจ้งเตือนจากแอป";
+notification_nearby_risks = "ความเสี่ยงใกล้เคียง";
+notification_trusted_alerts = "การแจ้งเตือนจากผู้ติดต่อที่เชื่อถือได้";
+notification_info = "เมื่อปิดการแจ้งเตือน SafeMap จะไม่แจ้งเตือนเกี่ยวกับความเสี่ยงใกล้เคียงหรือผู้ติดต่อที่เชื่อถือได้";
+
+my_reports_title = "รายงานของฉัน";
+my_reports_empty_title = "ยังไม่มีรายงานที่เพิ่ม";
+my_reports_empty_description = "เมื่อคุณเพิ่มรายงานให้กับพื้นที่บนแผนที่ รายงานนั้นจะแสดงที่นี่";
+
+about_title = "เกี่ยวกับ SafeMap";
+about_what_title = "SafeMap คืออะไร?";
+about_description = "SafeMap เป็นแอปแผนที่ที่มีเป้าหมายเพื่อแสดงพื้นที่ปลอดภัยและพื้นที่เสี่ยงผ่านการมีส่วนร่วมของชุมชน\n\nผู้ใช้สามารถแบ่งปันประสบการณ์เพื่อให้ข้อมูลเกี่ยวกับพื้นที่รอบตัว เป้าหมายของเราคือการสร้างพื้นที่ดิจิทัลที่ทุกคนรู้สึกปลอดภัยมากขึ้น";
+
+community_rules_title = "กฎของชุมชน";
+
+rule_respect_title = "ให้ความเคารพ";
+rule_respect_desc = "ไม่อนุญาตให้มีเนื้อหาที่เป็นการดูหมิ่น ข่มขู่ หรือแสดงความเกลียดชัง";
+
+rule_truth_title = "แบ่งปันข้อมูลที่ถูกต้อง";
+rule_truth_desc = "แบ่งปันเฉพาะประสบการณ์จริงที่เกิดขึ้น";
+
+rule_privacy_title = "เคารพความเป็นส่วนตัว";
+rule_privacy_desc = "อย่าแบ่งปันข้อมูลส่วนบุคคล ชื่อ หรือใบหน้า";
+
+rule_protect_title = "ปกป้องชุมชน";
+rule_protect_desc = "รายงานเนื้อหาที่ทำให้เข้าใจผิดหรือไม่เหมาะสม";
+
+rules_warning = "เนื้อหาที่ไม่เป็นไปตามกฎอาจถูกลบ และบัญชีอาจถูกระงับ";
+
+feedback_title = "ความคิดเห็น";
+feedback_description = "ความคิดเห็นที่คุณต้องการแบ่งปันกับเรา";
+feedback_send_button = "ส่ง";
+
+edit_profile_email = "อีเมล";
+
+location_status_on = "เปิดสิทธิ์การเข้าถึงตำแหน่งแล้ว";
+location_status_off = "ปิดสิทธิ์การเข้าถึงตำแหน่งแล้ว";
+
+feedback_success_title = "ส่งแล้ว";
+feedback_success_message = "ขอบคุณสำหรับความคิดเห็นของคุณ";
+feedback_mail_error = "ไม่สามารถส่งอีเมลได้ โปรดตรวจสอบว่ามีการตั้งค่าบัญชีอีเมลบนอุปกรณ์ของคุณแล้ว";
+
+report_nav_title = "เพิ่มรายงาน";
+report_title = "แสดงความคิดเห็นสำหรับพื้นที่นี้";
+report_selected_location = "ตำแหน่งที่เลือก";
+report_safety_question = "พื้นที่นี้ปลอดภัยแค่ไหน?";
+report_safe = "ปลอดภัย";
+report_medium = "ปานกลาง";
+report_unsafe = "ไม่ปลอดภัย";
+report_comment_title = "ความคิดเห็น";
+report_submit = "ส่ง";
+
+cluster_title = "รายงานพื้นที่";
+cluster_average = "ค่าเฉลี่ย";
+cluster_directions = "เส้นทาง";
+
+done = "เสร็จสิ้น";
+cancel = "ยกเลิก";
+
+safe = "ปลอดภัย";
+medium_safe = "ค่อนข้างปลอดภัย";
+unsafe = "ไม่ปลอดภัย";
+
+delete = "ลบ";
+delete_report_title = "ลบรายงาน";
+delete_report_message = "คุณแน่ใจหรือไม่ว่าต้องการลบรายงานนี้?";
+delete_confirm = "ลบ";
+cancel = "ยกเลิก";
+
+forgot_password = "ลืมรหัสผ่าน?";
+forgot_password_title = "รีเซ็ตรหัสผ่าน";
+forgot_password_description = "กรุณากรอกอีเมลของคุณ เราจะส่งลิงก์สำหรับรีเซ็ตรหัสผ่านให้คุณ";
+forgot_password_send = "ส่งอีเมลรีเซ็ต";
+forgot_password_success_title = "ส่งอีเมลแล้ว";
+forgot_password_success_message = "ลิงก์รีเซ็ตรหัสผ่านถูกส่งไปยังอีเมลของคุณแล้ว";
+

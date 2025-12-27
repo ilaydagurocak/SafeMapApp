@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "בחירת שפה";
+language_subtitle = "ניתן לבחור את השפה שבה תרצה להשתמש ב-SafeMap.";
+
+home_subtitle = "להרגיש בטוח דרך המפה";
+button_login = "התחברות";
+button_register = "הרשמה";
+
+login_subtitle = "בואו נהפוך אזורים בטוחים לגלויים יחד";
+login_email_placeholder = "אימייל";
+login_password_placeholder = "סיסמה";
+login_no_account = "אין לך חשבון? הירשם";
+button_login = "התחברות";
+
+register_title = "הצטרף אלינו";
+register_fullname_placeholder = "שם מלא";
+register_email_placeholder = "אימייל";
+register_password_placeholder = "סיסמה";
+button_register_continue = "הרשמה והמשך";
+
+home_search_placeholder = "חיפוש כתובת, שכונה או מקום";
+
+settings_title = "הגדרות";
+
+settings_edit_profile = "עריכת פרופיל";
+settings_trusted_contacts = "אנשי קשר מהימנים";
+settings_location = "הגדרות מיקום";
+settings_notifications = "הגדרות התראות";
+settings_language = "שינוי שפה";
+settings_my_reports = "דיווחים שנוספו";
+settings_about = "אודות SafeMap";
+settings_feedback = "שליחת משוב";
+
+settings_logout = "התנתקות";
+settings_delete_account = "מחיקת חשבון";
+
+logout_title = "התנתקות";
+logout_message = "האם אתה בטוח שברצונך להתנתק מהחשבון?";
+logout_confirm = "התנתקות";
+
+delete_title = "מחיקת חשבון";
+delete_message = "פעולה זו אינה ניתנת לביטול. האם אתה בטוח שברצונך למחוק את החשבון?";
+delete_confirm = "מחיקת חשבון";
+
+cancel = "ביטול";
+
+edit_profile_title = "עריכת פרופיל";
+
+edit_profile_fullname = "שם מלא";
+edit_profile_phone = "מספר טלפון";
+edit_profile_phone_placeholder = "טלפון";
+edit_profile_age = "גיל";
+edit_profile_gender = "מגדר";
+
+gender_female = "אישה";
+gender_male = "גבר";
+
+save = "שמור";
+
+trusted_contacts_title = "אנשי קשר מהימנים";
+trusted_contacts_info = "ניתן להוסיף כאן אנשים שייצרו איתם קשר במצבי חירום.";
+trusted_contacts_add = "הוסף איש קשר";
+
+location_settings_title = "הגדרות מיקום";
+location_settings_info = "SafeMap זקוקה להרשאת מיקום כדי להציג אזורים בטוחים ומסוכנים סביבך. המיקום שלך משמש רק להצגת אזורים בטוחים על המפה.";
+location_settings_open = "עבור להגדרות";
+
+notification_settings_title = "הגדרות התראות";
+notification_main_toggle = "קבל התראות מהאפליקציה";
+notification_nearby_risks = "סיכונים בקרבת מקום";
+notification_trusted_alerts = "התראות מאנשי קשר מהימנים";
+notification_info = "כאשר מכבים התראות, SafeMap לא תתריע על סיכונים קרובים או אנשי קשר מהימנים.";
+
+my_reports_title = "הדיווחים שלי";
+my_reports_empty_title = "טרם נוספו דיווחים";
+my_reports_empty_description = "כאשר תוסיף דיווח לאזור במפה, הוא יופיע כאן.";
+
+about_title = "אודות SafeMap";
+about_what_title = "מה זה SafeMap?";
+about_description = "SafeMap היא אפליקציית מפה שמטרתה להציג אזורים בטוחים ומסוכנים באמצעות תרומות מהקהילה.\n\nמשתמשים משתפים חוויות כדי ליידע אחרים על סביבתם. המטרה שלנו היא ליצור מרחב דיגיטלי שבו כולם ירגישו בטוחים יותר.";
+
+community_rules_title = "כללי הקהילה";
+
+rule_respect_title = "היה מכבד";
+rule_respect_desc = "אין לאפשר עלבונות, איומים או תוכן שנאה.";
+
+rule_truth_title = "שתף מידע מדויק";
+rule_truth_desc = "שתף רק חוויות אמיתיות שחווית.";
+
+rule_privacy_title = "כבד את הפרטיות";
+rule_privacy_desc = "אל תשתף מידע אישי, שמות או פרצופים.";
+
+rule_protect_title = "הגן על הקהילה";
+rule_protect_desc = "דווח על תוכן מטעה או לא הולם.";
+
+rules_warning = "תוכן שאינו עומד בכללים עשוי להימחק וחשבונות עשויים להיות מושעים.";
+
+feedback_title = "משוב";
+feedback_description = "המשוב שתרצה לשתף איתנו";
+feedback_send_button = "שלח";
+
+edit_profile_email = "אימייל";
+
+location_status_on = "הרשאת מיקום פעילה";
+location_status_off = "הרשאת מיקום כבויה";
+
+feedback_success_title = "נשלח";
+feedback_success_message = "תודה על המשוב שלך.";
+feedback_mail_error = "לא ניתן לשלוח מייל. ודא שמוגדר חשבון מייל במכשיר.";
+
+report_nav_title = "הוסף דיווח";
+report_title = "השאר דיווח עבור האזור";
+report_selected_location = "מיקום נבחר";
+report_safety_question = "כמה האזור הזה בטוח?";
+report_safe = "בטוח";
+report_medium = "בינוני";
+report_unsafe = "לא בטוח";
+report_comment_title = "תגובה";
+report_submit = "שלח";
+
+cluster_title = "דיווחי אזור";
+cluster_average = "ממוצע";
+cluster_directions = "ניווט";
+
+done = "סיום";
+cancel = "ביטול";
+
+safe = "בטוח";
+medium_safe = "בטוח במידה בינונית";
+unsafe = "לא בטוח";
+
+delete = "מחיקה";
+delete_report_title = "מחיקת דיווח";
+delete_report_message = "האם אתה בטוח שברצונך למחוק את הדיווח הזה?";
+delete_confirm = "מחיקה";
+cancel = "ביטול";
+
+forgot_password = "שכחת סיסמה?";
+forgot_password_title = "איפוס סיסמה";
+forgot_password_description = "הזן את כתובת האימייל שלך ונשלח לך קישור לאיפוס סיסמה.";
+forgot_password_send = "שלח מייל לאיפוס";
+forgot_password_success_title = "המייל נשלח";
+forgot_password_success_message = "קישור לאיפוס סיסמה נשלח לכתובת האימייל שלך.";
+

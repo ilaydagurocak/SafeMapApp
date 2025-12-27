@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Выбор языка";
+language_subtitle = "Вы можете выбрать язык, на котором хотите использовать SafeMap.";
+
+home_subtitle = "Ощущение безопасности на карте";
+button_login = "Войти";
+button_register = "Зарегистрироваться";
+
+login_subtitle = "Давайте вместе сделаем безопасные места заметными";
+login_email_placeholder = "Электронная почта";
+login_password_placeholder = "Пароль";
+login_no_account = "Нет аккаунта? Зарегистрироваться";
+button_login = "Войти";
+
+register_title = "Присоединяйтесь к нам";
+register_fullname_placeholder = "Полное имя";
+register_email_placeholder = "Электронная почта";
+register_password_placeholder = "Пароль";
+button_register_continue = "Зарегистрироваться и продолжить";
+
+home_search_placeholder = "Поиск адреса, района или места";
+
+settings_title = "Настройки";
+
+settings_edit_profile = "Редактировать профиль";
+settings_trusted_contacts = "Надёжные контакты";
+settings_location = "Настройки местоположения";
+settings_notifications = "Настройки уведомлений";
+settings_language = "Изменить язык";
+settings_my_reports = "Добавленные отчёты";
+settings_about = "О SafeMap";
+settings_feedback = "Отправить отзыв";
+
+settings_logout = "Выйти";
+settings_delete_account = "Удалить аккаунт";
+
+logout_title = "Выйти";
+logout_message = "Вы уверены, что хотите выйти из своего аккаунта?";
+logout_confirm = "Выйти";
+
+delete_title = "Удалить аккаунт";
+delete_message = "Это действие невозможно отменить. Вы уверены, что хотите удалить свой аккаунт?";
+delete_confirm = "Удалить аккаунт";
+
+cancel = "Отмена";
+
+edit_profile_title = "Редактировать профиль";
+
+edit_profile_fullname = "Полное имя";
+edit_profile_phone = "Номер телефона";
+edit_profile_phone_placeholder = "Телефон";
+edit_profile_age = "Возраст";
+edit_profile_gender = "Пол";
+
+gender_female = "Женский";
+gender_male = "Мужской";
+
+save = "Сохранить";
+
+trusted_contacts_title = "Надёжные контакты";
+trusted_contacts_info = "Здесь вы можете добавить людей, с которыми свяжутся в экстренной ситуации.";
+trusted_contacts_add = "Добавить контакт";
+
+location_settings_title = "Настройки местоположения";
+location_settings_info = "SafeMap требуется разрешение на доступ к местоположению, чтобы показывать безопасные и рискованные зоны рядом с вами. Ваше местоположение используется только для отображения безопасных зон на карте.";
+location_settings_open = "Перейти в настройки";
+
+notification_settings_title = "Настройки уведомлений";
+notification_main_toggle = "Получать уведомления от приложения";
+notification_nearby_risks = "Риски поблизости";
+notification_trusted_alerts = "Уведомления от надёжных контактов";
+notification_info = "При отключении уведомлений SafeMap не будет оповещать вас о рисках поблизости или надёжных контактах.";
+
+my_reports_title = "Мои отчёты";
+my_reports_empty_title = "Отчёты ещё не добавлены";
+my_reports_empty_description = "Когда вы добавите отчёт для области на карте, он появится здесь.";
+
+about_title = "О SafeMap";
+about_what_title = "Что такое SafeMap?";
+about_description = "SafeMap — это картографическое приложение, целью которого является отображение безопасных и рискованных зон с помощью вкладов сообщества.\n\nПользователи делятся своим опытом, чтобы информировать других о своей окружающей среде. Наша цель — создать цифровое пространство, в котором каждый сможет чувствовать себя безопаснее.";
+
+community_rules_title = "Правила сообщества";
+
+rule_respect_title = "Проявляйте уважение";
+rule_respect_desc = "Оскорбления, угрозы и контент, содержащий ненависть, не допускаются.";
+
+rule_truth_title = "Делитесь достоверной информацией";
+rule_truth_desc = "Делитесь только реальными и личными пережитыми событиями.";
+
+rule_privacy_title = "Уважайте конфиденциальность";
+rule_privacy_desc = "Не делитесь личной информацией, именами или изображениями лиц.";
+
+rule_protect_title = "Защищайте сообщество";
+rule_protect_desc = "Сообщайте о вводящем в заблуждение или неподобающем контенте.";
+
+rules_warning = "Контент, нарушающий правила, может быть удалён, а аккаунты — приостановлены.";
+
+feedback_title = "Отзыв";
+feedback_description = "Ваш отзыв, которым вы хотите поделиться с нами";
+feedback_send_button = "Отправить";
+
+edit_profile_email = "Электронная почта";
+
+location_status_on = "Разрешение на доступ к местоположению включено";
+location_status_off = "Разрешение на доступ к местоположению отключено";
+
+feedback_success_title = "Отправлено";
+feedback_success_message = "Спасибо за ваш отзыв.";
+feedback_mail_error = "Не удалось отправить письмо. Пожалуйста, убедитесь, что на вашем устройстве настроен почтовый аккаунт.";
+
+report_nav_title = "Добавить отчёт";
+report_title = "Оставить отчёт для этой области";
+report_selected_location = "Выбранное местоположение";
+report_safety_question = "Насколько безопасна эта область?";
+report_safe = "Безопасно";
+report_medium = "Средне";
+report_unsafe = "Небезопасно";
+report_comment_title = "Комментарий";
+report_submit = "Отправить";
+
+cluster_title = "Отчёты по области";
+cluster_average = "Среднее";
+cluster_directions = "Маршрут";
+
+done = "Готово";
+cancel = "Отмена";
+
+safe = "Безопасно";
+medium_safe = "Умеренно безопасно";
+unsafe = "Небезопасно";
+
+delete = "Удалить";
+delete_report_title = "Удалить отчёт";
+delete_report_message = "Вы уверены, что хотите удалить этот отчёт?";
+delete_confirm = "Удалить";
+cancel = "Отмена";
+
+forgot_password = "Забыли пароль?";
+forgot_password_title = "Сброс пароля";
+forgot_password_description = "Введите свой адрес электронной почты, и мы отправим вам ссылку для сброса пароля.";
+forgot_password_send = "Отправить письмо для сброса";
+forgot_password_success_title = "Письмо отправлено";
+forgot_password_success_message = "Ссылка для сброса пароля отправлена на ваш адрес электронной почты.";
+

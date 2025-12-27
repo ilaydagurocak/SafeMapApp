@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Επιλογή Γλώσσας";
+language_subtitle = "Μπορείς να επιλέξεις τη γλώσσα που θέλεις να χρησιμοποιήσεις στο SafeMap.";
+
+home_subtitle = "Το αίσθημα ασφάλειας σε μορφή χάρτη";
+button_login = "Σύνδεση";
+button_register = "Εγγραφή";
+
+login_subtitle = "Ας κάνουμε τους ασφαλείς χώρους ορατούς μαζί";
+login_email_placeholder = "Email";
+login_password_placeholder = "Κωδικός πρόσβασης";
+login_no_account = "Δεν έχεις λογαριασμό; Εγγραφή";
+button_login = "Σύνδεση";
+
+register_title = "Γίνε μέλος";
+register_fullname_placeholder = "Ονοματεπώνυμο";
+register_email_placeholder = "Email";
+register_password_placeholder = "Κωδικός πρόσβασης";
+button_register_continue = "Εγγραφή & Συνέχεια";
+
+home_search_placeholder = "Αναζήτηση διεύθυνσης, περιοχής ή μέρους";
+
+settings_title = "Ρυθμίσεις";
+
+settings_edit_profile = "Επεξεργασία Προφίλ";
+settings_trusted_contacts = "Έμπιστες Επαφές";
+settings_location = "Ρυθμίσεις Τοποθεσίας";
+settings_notifications = "Ρυθμίσεις Ειδοποιήσεων";
+settings_language = "Αλλαγή Γλώσσας";
+settings_my_reports = "Προστιθέμενες Αναφορές";
+settings_about = "Σχετικά με το SafeMap";
+settings_feedback = "Αποστολή Σχολίων";
+
+settings_logout = "Αποσύνδεση";
+settings_delete_account = "Διαγραφή Λογαριασμού";
+
+logout_title = "Αποσύνδεση";
+logout_message = "Είσαι σίγουρος/η ότι θέλεις να αποσυνδεθείς από τον λογαριασμό σου;";
+logout_confirm = "Αποσύνδεση";
+
+delete_title = "Διαγραφή Λογαριασμού";
+delete_message = "Αυτή η ενέργεια δεν μπορεί να αναιρεθεί. Είσαι σίγουρος/η ότι θέλεις να διαγράψεις τον λογαριασμό σου;";
+delete_confirm = "Διαγραφή Λογαριασμού";
+
+cancel = "Ακύρωση";
+
+edit_profile_title = "Επεξεργασία Προφίλ";
+
+edit_profile_fullname = "Ονοματεπώνυμο";
+edit_profile_phone = "Αριθμός Τηλεφώνου";
+edit_profile_phone_placeholder = "Τηλέφωνο";
+edit_profile_age = "Ηλικία";
+edit_profile_gender = "Φύλο";
+
+gender_female = "Γυναίκα";
+gender_male = "Άνδρας";
+
+save = "Αποθήκευση";
+
+trusted_contacts_title = "Έμπιστες Επαφές";
+trusted_contacts_info = "Μπορείς να προσθέσεις εδώ άτομα που θα ειδοποιηθούν σε περιπτώσεις έκτακτης ανάγκης.";
+trusted_contacts_add = "Προσθήκη Επαφής";
+
+location_settings_title = "Ρυθμίσεις Τοποθεσίας";
+location_settings_info = "Το SafeMap χρειάζεται άδεια τοποθεσίας για να εμφανίζει ασφαλείς και επικίνδυνες περιοχές γύρω σου. Η τοποθεσία σου χρησιμοποιείται μόνο για την προβολή ασφαλών περιοχών στον χάρτη.";
+location_settings_open = "Μετάβαση στις Ρυθμίσεις";
+
+notification_settings_title = "Ρυθμίσεις Ειδοποιήσεων";
+notification_main_toggle = "Λήψη ειδοποιήσεων από την εφαρμογή";
+notification_nearby_risks = "Κίνδυνοι κοντά σου";
+notification_trusted_alerts = "Ειδοποιήσεις από έμπιστες επαφές";
+notification_info = "Όταν απενεργοποιείς τις ειδοποιήσεις, το SafeMap δεν θα σε ειδοποιεί για κοντινούς κινδύνους ή έμπιστες επαφές.";
+
+my_reports_title = "Οι Αναφορές Μου";
+my_reports_empty_title = "Δεν έχουν προστεθεί αναφορές ακόμα";
+my_reports_empty_description = "Όταν προσθέσεις μια αναφορά για μια περιοχή στον χάρτη, θα εμφανιστεί εδώ.";
+
+about_title = "Σχετικά με το SafeMap";
+about_what_title = "Τι είναι το SafeMap;";
+about_description = "Το SafeMap είναι μια εφαρμογή χαρτών που στοχεύει να κάνει ορατές τις ασφαλείς και επικίνδυνες περιοχές μέσω της συμβολής της κοινότητας.\n\nΟι χρήστες μοιράζονται τις εμπειρίες τους για να ενημερώνουν άλλους σχετικά με το περιβάλλον τους. Στόχος μας είναι να δημιουργήσουμε έναν ψηφιακό χώρο όπου όλοι μπορούν να αισθάνονται πιο ασφαλείς.";
+
+community_rules_title = "Κανόνες Κοινότητας";
+
+rule_respect_title = "Δείξε Σεβασμό";
+rule_respect_desc = "Υβριστικό, απειλητικό ή μισαλλόδοξο περιεχόμενο δεν επιτρέπεται.";
+
+rule_truth_title = "Μοιράσου Ακριβείς Πληροφορίες";
+rule_truth_desc = "Μοιράσου μόνο πραγματικές και βιωμένες εμπειρίες.";
+
+rule_privacy_title = "Σεβάσου την Ιδιωτικότητα";
+rule_privacy_desc = "Μην κοινοποιείς προσωπικές πληροφορίες, ονόματα ή πρόσωπα.";
+
+rule_protect_title = "Προστάτεψε την Κοινότητα";
+rule_protect_desc = "Ανάφερε παραπλανητικό ή ακατάλληλο περιεχόμενο.";
+
+rules_warning = "Περιεχόμενο που παραβιάζει τους κανόνες μπορεί να αφαιρεθεί και οι λογαριασμοί να ανασταλούν.";
+
+feedback_title = "Σχόλια";
+feedback_description = "Τα σχόλια που θέλεις να μοιραστείς μαζί μας";
+feedback_send_button = "Αποστολή";
+
+edit_profile_email = "Email";
+
+location_status_on = "Η άδεια τοποθεσίας είναι ενεργή";
+location_status_off = "Η άδεια τοποθεσίας είναι ανενεργή";
+
+feedback_success_title = "Εστάλη";
+feedback_success_message = "Ευχαριστούμε για τα σχόλιά σου.";
+feedback_mail_error = "Δεν ήταν δυνατή η αποστολή email. Βεβαιώσου ότι υπάρχει ρυθμισμένος λογαριασμός email στη συσκευή σου.";
+
+report_nav_title = "Προσθήκη Αναφοράς";
+report_title = "Άφησε μια αναφορά για αυτήν την περιοχή";
+report_selected_location = "Επιλεγμένη τοποθεσία";
+report_safety_question = "Πόσο ασφαλής είναι αυτή η περιοχή;";
+report_safe = "Ασφαλής";
+report_medium = "Μέτρια";
+report_unsafe = "Μη ασφαλής";
+report_comment_title = "Σχόλιο";
+report_submit = "Αποστολή";
+
+cluster_title = "Αναφορές Περιοχής";
+cluster_average = "Μέσος όρος";
+cluster_directions = "Οδηγίες";
+
+done = "Τέλος";
+cancel = "Ακύρωση";
+
+safe = "Ασφαλής";
+medium_safe = "Μέτρια ασφαλής";
+unsafe = "Μη ασφαλής";
+
+delete = "Διαγραφή";
+delete_report_title = "Διαγραφή Αναφοράς";
+delete_report_message = "Είσαι σίγουρος/η ότι θέλεις να διαγράψεις αυτήν την αναφορά;";
+delete_confirm = "Διαγραφή";
+cancel = "Ακύρωση";
+
+forgot_password = "Ξέχασες τον κωδικό πρόσβασης;";
+forgot_password_title = "Επαναφορά Κωδικού";
+forgot_password_description = "Εισήγαγε τη διεύθυνση email σου και θα σου στείλουμε σύνδεσμο επαναφοράς κωδικού.";
+forgot_password_send = "Αποστολή Email Επαναφοράς";
+forgot_password_success_title = "Το Email Εστάλη";
+forgot_password_success_message = "Ο σύνδεσμος επαναφοράς κωδικού στάλθηκε στη διεύθυνση email σου.";
+

@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Nyelv kiválasztása";
+language_subtitle = "Kiválaszthatod, hogy melyik nyelven szeretnéd használni a SafeMapet.";
+
+home_subtitle = "A biztonság érzése térképen";
+button_login = "Bejelentkezés";
+button_register = "Regisztráció";
+
+login_subtitle = "Tegyük együtt láthatóvá a biztonságos helyeket";
+login_email_placeholder = "E-mail";
+login_password_placeholder = "Jelszó";
+login_no_account = "Nincs fiókod? Regisztrálj";
+button_login = "Bejelentkezés";
+
+register_title = "Csatlakozz hozzánk";
+register_fullname_placeholder = "Teljes név";
+register_email_placeholder = "E-mail";
+register_password_placeholder = "Jelszó";
+button_register_continue = "Regisztráció és folytatás";
+
+home_search_placeholder = "Cím, környék vagy hely keresése";
+
+settings_title = "Beállítások";
+
+settings_edit_profile = "Profil szerkesztése";
+settings_trusted_contacts = "Megbízható kapcsolatok";
+settings_location = "Helymeghatározás beállításai";
+settings_notifications = "Értesítési beállítások";
+settings_language = "Nyelv módosítása";
+settings_my_reports = "Hozzáadott jelentések";
+settings_about = "A SafeMapről";
+settings_feedback = "Visszajelzés küldése";
+
+settings_logout = "Kijelentkezés";
+settings_delete_account = "Fiók törlése";
+
+logout_title = "Kijelentkezés";
+logout_message = "Biztosan ki szeretnél jelentkezni a fiókodból?";
+logout_confirm = "Kijelentkezés";
+
+delete_title = "Fiók törlése";
+delete_message = "Ez a művelet nem vonható vissza. Biztosan törölni szeretnéd a fiókodat?";
+delete_confirm = "Fiók törlése";
+
+cancel = "Mégse";
+
+edit_profile_title = "Profil szerkesztése";
+
+edit_profile_fullname = "Teljes név";
+edit_profile_phone = "Telefonszám";
+edit_profile_phone_placeholder = "Telefon";
+edit_profile_age = "Életkor";
+edit_profile_gender = "Nem";
+
+gender_female = "Nő";
+gender_male = "Férfi";
+
+save = "Mentés";
+
+trusted_contacts_title = "Megbízható kapcsolatok";
+trusted_contacts_info = "Itt hozzáadhatod azokat a személyeket, akikkel vészhelyzet esetén kapcsolatba lehet lépni.";
+trusted_contacts_add = "Kapcsolat hozzáadása";
+
+location_settings_title = "Helymeghatározás beállításai";
+location_settings_info = "A SafeMap helyhozzáférést igényel ahhoz, hogy megjelenítse a környéked biztonságos és kockázatos területeit. A tartózkodási helyedet kizárólag a biztonságos területek megjelenítésére használjuk.";
+location_settings_open = "Beállítások megnyitása";
+
+notification_settings_title = "Értesítési beállítások";
+notification_main_toggle = "Értesítések fogadása az alkalmazásból";
+notification_nearby_risks = "Közeli kockázatok";
+notification_trusted_alerts = "Értesítések megbízható kapcsolatoktól";
+notification_info = "Ha kikapcsolod az értesítéseket, a SafeMap nem fog értesíteni a közeli kockázatokról vagy a megbízható kapcsolatokról.";
+
+my_reports_title = "Jelentéseim";
+my_reports_empty_title = "Még nincsenek hozzáadott jelentések";
+my_reports_empty_description = "Amikor jelentést adsz hozzá egy területhez a térképen, az itt fog megjelenni.";
+
+about_title = "A SafeMapről";
+about_what_title = "Mi az a SafeMap?";
+about_description = "A SafeMap egy térképes alkalmazás, amelynek célja a biztonságos és kockázatos területek láthatóvá tétele a közösség hozzájárulásai révén.\n\nA felhasználók megosztják tapasztalataikat, hogy tájékoztassanak másokat a környezetükről. Célunk egy olyan digitális tér létrehozása, ahol mindenki nagyobb biztonságban érezheti magát.";
+
+community_rules_title = "Közösségi szabályok";
+
+rule_respect_title = "Légy tisztelettudó";
+rule_respect_desc = "Sértő, fenyegető vagy gyűlöletkeltő tartalom nem engedélyezett.";
+
+rule_truth_title = "Pontos információk megosztása";
+rule_truth_desc = "Csak valós és saját tapasztalatokon alapuló információkat ossz meg.";
+
+rule_privacy_title = "Tiszteld a magánéletet";
+rule_privacy_desc = "Ne ossz meg személyes adatokat, neveket vagy arcokat.";
+
+rule_protect_title = "Védd a közösséget";
+rule_protect_desc = "Jelentsd a félrevezető vagy nem megfelelő tartalmakat.";
+
+rules_warning = "A szabályokat megszegő tartalmak eltávolíthatók, és a fiókok felfüggesztésre kerülhetnek.";
+
+feedback_title = "Visszajelzés";
+feedback_description = "Az a visszajelzés, amelyet szeretnél megosztani velünk";
+feedback_send_button = "Küldés";
+
+edit_profile_email = "E-mail";
+
+location_status_on = "A helyhozzáférés engedélyezve van";
+location_status_off = "A helyhozzáférés le van tiltva";
+
+feedback_success_title = "Elküldve";
+feedback_success_message = "Köszönjük a visszajelzésedet.";
+feedback_mail_error = "Az e-mail küldése nem sikerült. Kérjük, ellenőrizd, hogy van-e beállított e-mail fiók az eszközödön.";
+
+report_nav_title = "Jelentés hozzáadása";
+report_title = "Jelentés hozzáadása ehhez a területhez";
+report_selected_location = "Kiválasztott hely";
+report_safety_question = "Mennyire biztonságos ez a terület?";
+report_safe = "Biztonságos";
+report_medium = "Közepes";
+report_unsafe = "Nem biztonságos";
+report_comment_title = "Megjegyzés";
+report_submit = "Küldés";
+
+cluster_title = "Területi jelentések";
+cluster_average = "Átlag";
+cluster_directions = "Útvonal";
+
+done = "Kész";
+cancel = "Mégse";
+
+safe = "Biztonságos";
+medium_safe = "Közepesen biztonságos";
+unsafe = "Nem biztonságos";
+
+delete = "Törlés";
+delete_report_title = "Jelentés törlése";
+delete_report_message = "Biztosan törölni szeretnéd ezt a jelentést?";
+delete_confirm = "Törlés";
+cancel = "Mégse";
+
+forgot_password = "Elfelejtetted a jelszavad?";
+forgot_password_title = "Jelszó visszaállítása";
+forgot_password_description = "Add meg az e-mail címedet, és küldünk egy jelszó-visszaállító linket.";
+forgot_password_send = "Visszaállító e-mail küldése";
+forgot_password_success_title = "E-mail elküldve";
+forgot_password_success_message = "A jelszó-visszaállító linket elküldtük az e-mail címedre.";
+

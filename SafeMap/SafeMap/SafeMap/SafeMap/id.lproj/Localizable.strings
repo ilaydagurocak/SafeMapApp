@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Pilihan Bahasa";
+language_subtitle = "Anda dapat memilih bahasa yang ingin digunakan di SafeMap.";
+
+home_subtitle = "Rasa aman dalam bentuk peta";
+button_login = "Masuk";
+button_register = "Daftar";
+
+login_subtitle = "Mari bersama-sama membuat area aman menjadi terlihat";
+login_email_placeholder = "Email";
+login_password_placeholder = "Kata Sandi";
+login_no_account = "Belum punya akun? Daftar";
+button_login = "Masuk";
+
+register_title = "Bergabung dengan Kami";
+register_fullname_placeholder = "Nama Lengkap";
+register_email_placeholder = "Email";
+register_password_placeholder = "Kata Sandi";
+button_register_continue = "Daftar & Lanjutkan";
+
+home_search_placeholder = "Cari alamat, lingkungan, atau tempat";
+
+settings_title = "Pengaturan";
+
+settings_edit_profile = "Edit Profil";
+settings_trusted_contacts = "Kontak Tepercaya";
+settings_location = "Pengaturan Lokasi";
+settings_notifications = "Pengaturan Notifikasi";
+settings_language = "Ubah Bahasa";
+settings_my_reports = "Laporan yang Ditambahkan";
+settings_about = "Tentang SafeMap";
+settings_feedback = "Kirim Masukan";
+
+settings_logout = "Keluar";
+settings_delete_account = "Hapus Akun";
+
+logout_title = "Keluar";
+logout_message = "Apakah Anda yakin ingin keluar dari akun Anda?";
+logout_confirm = "Keluar";
+
+delete_title = "Hapus Akun";
+delete_message = "Tindakan ini tidak dapat dibatalkan. Apakah Anda yakin ingin menghapus akun Anda?";
+delete_confirm = "Hapus Akun";
+
+cancel = "Batal";
+
+edit_profile_title = "Edit Profil";
+
+edit_profile_fullname = "Nama Lengkap";
+edit_profile_phone = "Nomor Telepon";
+edit_profile_phone_placeholder = "Telepon";
+edit_profile_age = "Usia";
+edit_profile_gender = "Jenis Kelamin";
+
+gender_female = "Perempuan";
+gender_male = "Laki-laki";
+
+save = "Simpan";
+
+trusted_contacts_title = "Kontak Tepercaya";
+trusted_contacts_info = "Anda dapat menambahkan orang yang akan dihubungi dalam keadaan darurat di sini.";
+trusted_contacts_add = "Tambah Kontak";
+
+location_settings_title = "Pengaturan Lokasi";
+location_settings_info = "SafeMap memerlukan izin lokasi untuk menampilkan area aman dan berisiko di sekitar Anda. Lokasi Anda hanya digunakan untuk menampilkan area aman di peta.";
+location_settings_open = "Buka Pengaturan";
+
+notification_settings_title = "Pengaturan Notifikasi";
+notification_main_toggle = "Terima notifikasi dari aplikasi";
+notification_nearby_risks = "Risiko di sekitar";
+notification_trusted_alerts = "Peringatan dari kontak tepercaya";
+notification_info = "Saat notifikasi dimatikan, SafeMap tidak akan memberi tahu Anda tentang risiko di sekitar atau kontak tepercaya.";
+
+my_reports_title = "Laporan Saya";
+my_reports_empty_title = "Belum ada laporan yang ditambahkan";
+my_reports_empty_description = "Saat Anda menambahkan laporan ke suatu area di peta, laporan tersebut akan muncul di sini.";
+
+about_title = "Tentang SafeMap";
+about_what_title = "Apa itu SafeMap?";
+about_description = "SafeMap adalah aplikasi peta yang bertujuan untuk menampilkan area aman dan berisiko melalui kontribusi komunitas.\n\nPengguna membagikan pengalaman mereka untuk memberi tahu orang lain tentang lingkungan sekitar. Tujuan kami adalah menciptakan ruang digital di mana semua orang dapat merasa lebih aman.";
+
+community_rules_title = "Aturan Komunitas";
+
+rule_respect_title = "Bersikap Sopan";
+rule_respect_desc = "Konten yang mengandung hinaan, ancaman, atau kebencian tidak diperbolehkan.";
+
+rule_truth_title = "Bagikan Informasi yang Akurat";
+rule_truth_desc = "Hanya bagikan pengalaman nyata dan yang benar-benar dialami.";
+
+rule_privacy_title = "Hormati Privasi";
+rule_privacy_desc = "Jangan bagikan informasi pribadi, nama, atau wajah.";
+
+rule_protect_title = "Lindungi Komunitas";
+rule_protect_desc = "Laporkan konten yang menyesatkan atau tidak pantas.";
+
+rules_warning = "Konten yang melanggar aturan dapat dihapus dan akun dapat ditangguhkan.";
+
+feedback_title = "Masukan";
+feedback_description = "Masukan yang ingin Anda bagikan dengan kami";
+feedback_send_button = "Kirim";
+
+edit_profile_email = "Email";
+
+location_status_on = "Izin lokasi diaktifkan";
+location_status_off = "Izin lokasi dinonaktifkan";
+
+feedback_success_title = "Terkirim";
+feedback_success_message = "Terima kasih atas masukan Anda.";
+feedback_mail_error = "Email tidak dapat dikirim. Pastikan akun email telah diatur di perangkat Anda.";
+
+report_nav_title = "Tambah Laporan";
+report_title = "Tinggalkan laporan untuk area ini";
+report_selected_location = "Lokasi yang dipilih";
+report_safety_question = "Seberapa aman area ini?";
+report_safe = "Aman";
+report_medium = "Sedang";
+report_unsafe = "Tidak Aman";
+report_comment_title = "Komentar";
+report_submit = "Kirim";
+
+cluster_title = "Laporan Area";
+cluster_average = "Rata-rata";
+cluster_directions = "Petunjuk Arah";
+
+done = "Selesai";
+cancel = "Batal";
+
+safe = "Aman";
+medium_safe = "Cukup Aman";
+unsafe = "Tidak Aman";
+
+delete = "Hapus";
+delete_report_title = "Hapus Laporan";
+delete_report_message = "Apakah Anda yakin ingin menghapus laporan ini?";
+delete_confirm = "Hapus";
+cancel = "Batal";
+
+forgot_password = "Lupa Kata Sandi?";
+forgot_password_title = "Atur Ulang Kata Sandi";
+forgot_password_description = "Masukkan alamat email Anda, kami akan mengirimkan tautan untuk mengatur ulang kata sandi.";
+forgot_password_send = "Kirim Email Reset";
+forgot_password_success_title = "Email Terkirim";
+forgot_password_success_message = "Tautan pengaturan ulang kata sandi telah dikirim ke alamat email Anda.";
+

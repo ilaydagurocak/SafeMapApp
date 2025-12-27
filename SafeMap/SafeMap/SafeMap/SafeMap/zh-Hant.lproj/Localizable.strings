@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "語言選擇";
+language_subtitle = "你可以選擇在 SafeMap 中使用的語言。";
+
+home_subtitle = "用地圖感受安全";
+button_login = "登入";
+button_register = "註冊";
+
+login_subtitle = "讓我們一起讓安全區域更清楚";
+login_email_placeholder = "電子郵件";
+login_password_placeholder = "密碼";
+login_no_account = "還沒有帳號？註冊";
+button_login = "登入";
+
+register_title = "加入我們";
+register_fullname_placeholder = "姓名";
+register_email_placeholder = "電子郵件";
+register_password_placeholder = "密碼";
+button_register_continue = "註冊並繼續";
+
+home_search_placeholder = "搜尋地址、社區或地點";
+
+settings_title = "設定";
+
+settings_edit_profile = "編輯個人資料";
+settings_trusted_contacts = "可信聯絡人";
+settings_location = "位置設定";
+settings_notifications = "通知設定";
+settings_language = "更改語言";
+settings_my_reports = "已新增的評論";
+settings_about = "關於 SafeMap";
+settings_feedback = "傳送回饋";
+
+settings_logout = "登出";
+settings_delete_account = "刪除帳戶";
+
+logout_title = "登出";
+logout_message = "你確定要登出你的帳戶嗎？";
+logout_confirm = "登出";
+
+delete_title = "刪除帳戶";
+delete_message = "此操作無法復原。你確定要刪除你的帳戶嗎？";
+delete_confirm = "刪除帳戶";
+
+cancel = "取消";
+
+edit_profile_title = "編輯個人資料";
+
+edit_profile_fullname = "姓名";
+edit_profile_phone = "電話號碼";
+edit_profile_phone_placeholder = "電話";
+edit_profile_age = "年齡";
+edit_profile_gender = "性別";
+
+gender_female = "女性";
+gender_male = "男性";
+
+save = "儲存";
+
+trusted_contacts_title = "可信聯絡人";
+trusted_contacts_info = "你可以在這裡新增緊急情況下需要聯絡的人。";
+trusted_contacts_add = "新增聯絡人";
+
+location_settings_title = "位置設定";
+location_settings_info = "SafeMap 需要位置權限以顯示你周圍的安全與風險區域。你的位置信息僅用於在地圖上顯示安全區域。";
+location_settings_open = "前往設定";
+
+notification_settings_title = "通知設定";
+notification_main_toggle = "接收應用程式通知";
+notification_nearby_risks = "附近風險";
+notification_trusted_alerts = "來自可信聯絡人的提醒";
+notification_info = "關閉通知後，SafeMap 將不會提醒你附近的風險或可信聯絡人相關資訊。";
+
+my_reports_title = "我的評論";
+my_reports_empty_title = "尚未新增評論";
+my_reports_empty_description = "當你在地圖上為某個區域新增評論時，它將顯示在這裡。";
+
+about_title = "關於 SafeMap";
+about_what_title = "什麼是 SafeMap？";
+about_description = "SafeMap 是一款透過社群貢獻來顯示安全與風險區域的地圖應用程式。\n\n使用者透過分享自身經驗來告知他人周圍的環境。我們的目標是建立一個讓每個人都能感到更安全的數位空間。";
+
+community_rules_title = "社群規則";
+
+rule_respect_title = "保持尊重";
+rule_respect_desc = "不允許侮辱、威脅或仇恨內容。";
+
+rule_truth_title = "分享真實資訊";
+rule_truth_desc = "僅分享真實且親身經歷的內容。";
+
+rule_privacy_title = "尊重隱私";
+rule_privacy_desc = "請勿分享個人資訊、姓名或臉部資料。";
+
+rule_protect_title = "保護社群";
+rule_protect_desc = "檢舉誤導性或不當內容。";
+
+rules_warning = "違反規則的內容可能會被移除，帳戶可能會被停權。";
+
+feedback_title = "回饋";
+feedback_description = "你想與我們分享的回饋";
+feedback_send_button = "傳送";
+
+edit_profile_email = "電子郵件";
+
+location_status_on = "位置權限已啟用";
+location_status_off = "位置權限已停用";
+
+feedback_success_title = "已傳送";
+feedback_success_message = "感謝你的回饋。";
+feedback_mail_error = "無法傳送郵件。請確認你的裝置已設定郵件帳戶。";
+
+report_nav_title = "新增評論";
+report_title = "為此區域留下評論";
+report_selected_location = "已選擇的位置";
+report_safety_question = "這個區域有多安全？";
+report_safe = "安全";
+report_medium = "普通";
+report_unsafe = "不安全";
+report_comment_title = "評論";
+report_submit = "送出";
+
+cluster_title = "區域評論";
+cluster_average = "平均";
+cluster_directions = "路線導航";
+
+done = "完成";
+cancel = "取消";
+
+safe = "安全";
+medium_safe = "中等安全";
+unsafe = "不安全";
+
+delete = "刪除";
+delete_report_title = "刪除評論";
+delete_report_message = "你確定要刪除這則評論嗎？";
+delete_confirm = "刪除";
+cancel = "取消";
+
+forgot_password = "忘記密碼？";
+forgot_password_title = "重設密碼";
+forgot_password_description = "請輸入你的電子郵件地址，我們將寄送密碼重設連結給你。";
+forgot_password_send = "傳送重設郵件";
+forgot_password_success_title = "郵件已傳送";
+forgot_password_success_message = "密碼重設連結已寄送至你的電子郵件。";
+

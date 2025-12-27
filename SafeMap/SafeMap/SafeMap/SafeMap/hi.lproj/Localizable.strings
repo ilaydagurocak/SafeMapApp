@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "भाषा चयन";
+language_subtitle = "आप SafeMap में उपयोग करने के लिए भाषा चुन सकते हैं।";
+
+home_subtitle = "मानचित्र के माध्यम से सुरक्षा का एहसास";
+button_login = "लॉग इन";
+button_register = "साइन अप";
+
+login_subtitle = "आइए सुरक्षित स्थानों को मिलकर दृश्य बनाएं";
+login_email_placeholder = "ईमेल";
+login_password_placeholder = "पासवर्ड";
+login_no_account = "खाता नहीं है? साइन अप करें";
+button_login = "लॉग इन";
+
+register_title = "हमसे जुड़ें";
+register_fullname_placeholder = "पूरा नाम";
+register_email_placeholder = "ईमेल";
+register_password_placeholder = "पासवर्ड";
+button_register_continue = "साइन अप करें और जारी रखें";
+
+home_search_placeholder = "पता, क्षेत्र या स्थान खोजें";
+
+settings_title = "सेटिंग्स";
+
+settings_edit_profile = "प्रोफ़ाइल संपादित करें";
+settings_trusted_contacts = "विश्वसनीय संपर्क";
+settings_location = "स्थान सेटिंग्स";
+settings_notifications = "सूचना सेटिंग्स";
+settings_language = "भाषा बदलें";
+settings_my_reports = "जोड़ी गई रिपोर्टें";
+settings_about = "SafeMap के बारे में";
+settings_feedback = "प्रतिक्रिया भेजें";
+
+settings_logout = "लॉग आउट";
+settings_delete_account = "खाता हटाएँ";
+
+logout_title = "लॉग आउट";
+logout_message = "क्या आप वाकई अपने खाते से लॉग आउट करना चाहते हैं?";
+logout_confirm = "लॉग आउट";
+
+delete_title = "खाता हटाएँ";
+delete_message = "यह कार्रवाई वापस नहीं ली जा सकती। क्या आप वाकई अपना खाता हटाना चाहते हैं?";
+delete_confirm = "खाता हटाएँ";
+
+cancel = "रद्द करें";
+
+edit_profile_title = "प्रोफ़ाइल संपादित करें";
+
+edit_profile_fullname = "पूरा नाम";
+edit_profile_phone = "फ़ोन नंबर";
+edit_profile_phone_placeholder = "फ़ोन";
+edit_profile_age = "आयु";
+edit_profile_gender = "लिंग";
+
+gender_female = "महिला";
+gender_male = "पुरुष";
+
+save = "सहेजें";
+
+trusted_contacts_title = "विश्वसनीय संपर्क";
+trusted_contacts_info = "आपात स्थिति में संपर्क किए जाने वाले लोगों को यहाँ जोड़ सकते हैं।";
+trusted_contacts_add = "संपर्क जोड़ें";
+
+location_settings_title = "स्थान सेटिंग्स";
+location_settings_info = "SafeMap को आपके आसपास के सुरक्षित और जोखिम वाले क्षेत्रों को दिखाने के लिए स्थान अनुमति की आवश्यकता होती है। आपका स्थान केवल मानचित्र पर सुरक्षित क्षेत्रों को दिखाने के लिए उपयोग किया जाता है।";
+location_settings_open = "सेटिंग्स पर जाएँ";
+
+notification_settings_title = "सूचना सेटिंग्स";
+notification_main_toggle = "ऐप से सूचनाएँ प्राप्त करें";
+notification_nearby_risks = "पास के जोखिम";
+notification_trusted_alerts = "विश्वसनीय संपर्कों से अलर्ट";
+notification_info = "जब सूचनाएँ बंद होती हैं, SafeMap आपको पास के जोखिमों या विश्वसनीय संपर्कों के बारे में सूचित नहीं करेगा।";
+
+my_reports_title = "मेरी रिपोर्टें";
+my_reports_empty_title = "अभी तक कोई रिपोर्ट नहीं जोड़ी गई";
+my_reports_empty_description = "जब आप मानचित्र पर किसी क्षेत्र के लिए रिपोर्ट जोड़ेंगे, तो वह यहाँ दिखाई देगी।";
+
+about_title = "SafeMap के बारे में";
+about_what_title = "SafeMap क्या है?";
+about_description = "SafeMap एक मानचित्र ऐप है जिसका उद्देश्य समुदाय के योगदान के माध्यम से सुरक्षित और जोखिम वाले क्षेत्रों को दृश्य बनाना है।\n\nउपयोगकर्ता अपने अनुभव साझा करके दूसरों को अपने आसपास के क्षेत्रों के बारे में जानकारी देते हैं। हमारा लक्ष्य एक ऐसा डिजिटल स्थान बनाना है जहाँ हर कोई अधिक सुरक्षित महसूस कर सके।";
+
+community_rules_title = "समुदाय नियम";
+
+rule_respect_title = "सम्मान बनाए रखें";
+rule_respect_desc = "अपमानजनक, धमकीपूर्ण या घृणास्पद सामग्री की अनुमति नहीं है।";
+
+rule_truth_title = "सटीक जानकारी साझा करें";
+rule_truth_desc = "केवल वास्तविक और स्वयं अनुभव की गई जानकारी साझा करें।";
+
+rule_privacy_title = "गोपनीयता का सम्मान करें";
+rule_privacy_desc = "व्यक्तिगत जानकारी, नाम या चेहरे साझा न करें।";
+
+rule_protect_title = "समुदाय की रक्षा करें";
+rule_protect_desc = "भ्रामक या अनुचित सामग्री की रिपोर्ट करें।";
+
+rules_warning = "नियमों का उल्लंघन करने वाली सामग्री हटाई जा सकती है और खातों को निलंबित किया जा सकता है।";
+
+feedback_title = "प्रतिक्रिया";
+feedback_description = "वह प्रतिक्रिया जो आप हमारे साथ साझा करना चाहते हैं";
+feedback_send_button = "भेजें";
+
+edit_profile_email = "ईमेल";
+
+location_status_on = "स्थान अनुमति सक्षम है";
+location_status_off = "स्थान अनुमति अक्षम है";
+
+feedback_success_title = "भेज दिया गया";
+feedback_success_message = "आपकी प्रतिक्रिया के लिए धन्यवाद।";
+feedback_mail_error = "ईमेल भेजा नहीं जा सका। कृपया सुनिश्चित करें कि आपके डिवाइस पर मेल खाता सेट किया गया है।";
+
+report_nav_title = "रिपोर्ट जोड़ें";
+report_title = "इस क्षेत्र के लिए रिपोर्ट छोड़ें";
+report_selected_location = "चयनित स्थान";
+report_safety_question = "यह क्षेत्र कितना सुरक्षित है?";
+report_safe = "सुरक्षित";
+report_medium = "मध्यम";
+report_unsafe = "असुरक्षित";
+report_comment_title = "टिप्पणी";
+report_submit = "भेजें";
+
+cluster_title = "क्षेत्र रिपोर्ट";
+cluster_average = "औसत";
+cluster_directions = "दिशा-निर्देश";
+
+done = "पूर्ण";
+cancel = "रद्द करें";
+
+safe = "सुरक्षित";
+medium_safe = "मध्यम रूप से सुरक्षित";
+unsafe = "असुरक्षित";
+
+delete = "हटाएँ";
+delete_report_title = "रिपोर्ट हटाएँ";
+delete_report_message = "क्या आप वाकई इस रिपोर्ट को हटाना चाहते हैं?";
+delete_confirm = "हटाएँ";
+cancel = "रद्द करें";
+
+forgot_password = "पासवर्ड भूल गए?";
+forgot_password_title = "पासवर्ड रीसेट";
+forgot_password_description = "अपना ईमेल पता दर्ज करें, हम आपको पासवर्ड रीसेट लिंक भेजेंगे।";
+forgot_password_send = "रीसेट ईमेल भेजें";
+forgot_password_success_title = "ईमेल भेज दिया गया";
+forgot_password_success_message = "पासवर्ड रीसेट लिंक आपके ईमेल पते पर भेज दिया गया है।";
+

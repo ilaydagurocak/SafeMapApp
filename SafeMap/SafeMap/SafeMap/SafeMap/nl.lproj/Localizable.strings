@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Taalkeuze";
+language_subtitle = "Je kunt de taal kiezen waarin je SafeMap wilt gebruiken.";
+
+home_subtitle = "Het gevoel van veiligheid op de kaart";
+button_login = "Inloggen";
+button_register = "Registreren";
+
+login_subtitle = "Laten we samen veilige plekken zichtbaar maken";
+login_email_placeholder = "E-mail";
+login_password_placeholder = "Wachtwoord";
+login_no_account = "Nog geen account? Registreer je";
+button_login = "Inloggen";
+
+register_title = "Doe met ons mee";
+register_fullname_placeholder = "Volledige naam";
+register_email_placeholder = "E-mail";
+register_password_placeholder = "Wachtwoord";
+button_register_continue = "Registreren en doorgaan";
+
+home_search_placeholder = "Zoek adres, buurt of locatie";
+
+settings_title = "Instellingen";
+
+settings_edit_profile = "Profiel bewerken";
+settings_trusted_contacts = "Vertrouwde contacten";
+settings_location = "Locatie-instellingen";
+settings_notifications = "Meldingsinstellingen";
+settings_language = "Taal wijzigen";
+settings_my_reports = "Toegevoegde meldingen";
+settings_about = "Over SafeMap";
+settings_feedback = "Feedback verzenden";
+
+settings_logout = "Uitloggen";
+settings_delete_account = "Account verwijderen";
+
+logout_title = "Uitloggen";
+logout_message = "Weet je zeker dat je wilt uitloggen van je account?";
+logout_confirm = "Uitloggen";
+
+delete_title = "Account verwijderen";
+delete_message = "Deze actie kan niet ongedaan worden gemaakt. Weet je zeker dat je je account wilt verwijderen?";
+delete_confirm = "Account verwijderen";
+
+cancel = "Annuleren";
+
+edit_profile_title = "Profiel bewerken";
+
+edit_profile_fullname = "Volledige naam";
+edit_profile_phone = "Telefoonnummer";
+edit_profile_phone_placeholder = "Telefoon";
+edit_profile_age = "Leeftijd";
+edit_profile_gender = "Geslacht";
+
+gender_female = "Vrouw";
+gender_male = "Man";
+
+save = "Opslaan";
+
+trusted_contacts_title = "Vertrouwde contacten";
+trusted_contacts_info = "Hier kun je personen toevoegen die in noodgevallen worden gecontacteerd.";
+trusted_contacts_add = "Contact toevoegen";
+
+location_settings_title = "Locatie-instellingen";
+location_settings_info = "SafeMap heeft locatietoestemming nodig om veilige en risicovolle gebieden in jouw omgeving te tonen. Je locatie wordt uitsluitend gebruikt om veilige gebieden op de kaart weer te geven.";
+location_settings_open = "Ga naar instellingen";
+
+notification_settings_title = "Meldingsinstellingen";
+notification_main_toggle = "Meldingen van de app ontvangen";
+notification_nearby_risks = "Risico’s in de buurt";
+notification_trusted_alerts = "Meldingen van vertrouwde contacten";
+notification_info = "Wanneer meldingen zijn uitgeschakeld, zal SafeMap je niet waarschuwen voor risico’s in de buurt of vertrouwde contacten.";
+
+my_reports_title = "Mijn meldingen";
+my_reports_empty_title = "Nog geen meldingen toegevoegd";
+my_reports_empty_description = "Wanneer je een melding toevoegt aan een gebied op de kaart, verschijnt deze hier.";
+
+about_title = "Over SafeMap";
+about_what_title = "Wat is SafeMap?";
+about_description = "SafeMap is een kaartapplicatie die tot doel heeft veilige en risicovolle gebieden zichtbaar te maken door bijdragen van de community.\n\nGebruikers delen hun ervaringen om anderen te informeren over hun omgeving. Ons doel is een digitale ruimte te creëren waarin iedereen zich veiliger kan voelen.";
+
+community_rules_title = "Communityregels";
+
+rule_respect_title = "Wees respectvol";
+rule_respect_desc = "Beledigende, bedreigende of haatdragende inhoud is niet toegestaan.";
+
+rule_truth_title = "Deel juiste informatie";
+rule_truth_desc = "Deel alleen echte en zelf ervaren gebeurtenissen.";
+
+rule_privacy_title = "Respecteer privacy";
+rule_privacy_desc = "Deel geen persoonlijke informatie, namen of gezichten.";
+
+rule_protect_title = "Bescherm de community";
+rule_protect_desc = "Meld misleidende of ongepaste inhoud.";
+
+rules_warning = "Inhoud die de regels overtreedt kan worden verwijderd en accounts kunnen worden geschorst.";
+
+feedback_title = "Feedback";
+feedback_description = "De feedback die je met ons wilt delen";
+feedback_send_button = "Verzenden";
+
+edit_profile_email = "E-mail";
+
+location_status_on = "Locatietoestemming ingeschakeld";
+location_status_off = "Locatietoestemming uitgeschakeld";
+
+feedback_success_title = "Verzonden";
+feedback_success_message = "Bedankt voor je feedback.";
+feedback_mail_error = "E-mail kon niet worden verzonden. Zorg ervoor dat er een e-mailaccount is ingesteld op je apparaat.";
+
+report_nav_title = "Melding toevoegen";
+report_title = "Laat een melding achter voor dit gebied";
+report_selected_location = "Geselecteerde locatie";
+report_safety_question = "Hoe veilig is dit gebied?";
+report_safe = "Veilig";
+report_medium = "Gemiddeld";
+report_unsafe = "Onveilig";
+report_comment_title = "Opmerking";
+report_submit = "Verzenden";
+
+cluster_title = "Gebiedsmeldingen";
+cluster_average = "Gemiddelde";
+cluster_directions = "Route";
+
+done = "Klaar";
+cancel = "Annuleren";
+
+safe = "Veilig";
+medium_safe = "Redelijk veilig";
+unsafe = "Onveilig";
+
+delete = "Verwijderen";
+delete_report_title = "Melding verwijderen";
+delete_report_message = "Weet je zeker dat je deze melding wilt verwijderen?";
+delete_confirm = "Verwijderen";
+cancel = "Annuleren";
+
+forgot_password = "Wachtwoord vergeten?";
+forgot_password_title = "Wachtwoord opnieuw instellen";
+forgot_password_description = "Voer je e-mailadres in en we sturen je een link om je wachtwoord opnieuw in te stellen.";
+forgot_password_send = "Reset-e-mail verzenden";
+forgot_password_success_title = "E-mail verzonden";
+forgot_password_success_message = "De link voor het opnieuw instellen van het wachtwoord is naar je e-mailadres verzonden.";
+

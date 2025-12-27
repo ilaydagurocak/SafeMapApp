@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "言語選択";
+language_subtitle = "SafeMapで使用する言語を選択できます。";
+
+home_subtitle = "安心を地図で感じる";
+button_login = "ログイン";
+button_register = "登録";
+
+login_subtitle = "安全な場所を一緒に可視化しよう";
+login_email_placeholder = "メール";
+login_password_placeholder = "パスワード";
+login_no_account = "アカウントがありませんか？登録";
+button_login = "ログイン";
+
+register_title = "参加する";
+register_fullname_placeholder = "氏名";
+register_email_placeholder = "メール";
+register_password_placeholder = "パスワード";
+button_register_continue = "登録して続行";
+
+home_search_placeholder = "住所、地域、または場所を検索";
+
+settings_title = "設定";
+
+settings_edit_profile = "プロフィールを編集";
+settings_trusted_contacts = "信頼できる連絡先";
+settings_location = "位置情報の設定";
+settings_notifications = "通知設定";
+settings_language = "言語を変更";
+settings_my_reports = "追加されたレポート";
+settings_about = "SafeMapについて";
+settings_feedback = "フィードバックを送信";
+
+settings_logout = "ログアウト";
+settings_delete_account = "アカウントを削除";
+
+logout_title = "ログアウト";
+logout_message = "アカウントからログアウトしますか？";
+logout_confirm = "ログアウト";
+
+delete_title = "アカウントを削除";
+delete_message = "この操作は元に戻せません。本当にアカウントを削除しますか？";
+delete_confirm = "アカウントを削除";
+
+cancel = "キャンセル";
+
+edit_profile_title = "プロフィールを編集";
+
+edit_profile_fullname = "氏名";
+edit_profile_phone = "電話番号";
+edit_profile_phone_placeholder = "電話";
+edit_profile_age = "年齢";
+edit_profile_gender = "性別";
+
+gender_female = "女性";
+gender_male = "男性";
+
+save = "保存";
+
+trusted_contacts_title = "信頼できる連絡先";
+trusted_contacts_info = "緊急時に連絡する相手をここに追加できます。";
+trusted_contacts_add = "連絡先を追加";
+
+location_settings_title = "位置情報の設定";
+location_settings_info = "SafeMapは、周囲の安全・危険なエリアを表示するために位置情報の許可が必要です。位置情報は地図上で安全なエリアを表示する目的にのみ使用されます。";
+location_settings_open = "設定へ移動";
+
+notification_settings_title = "通知設定";
+notification_main_toggle = "アプリから通知を受け取る";
+notification_nearby_risks = "近くのリスク";
+notification_trusted_alerts = "信頼できる連絡先からの通知";
+notification_info = "通知をオフにすると、SafeMapは近くのリスクや信頼できる連絡先に関する通知を行いません。";
+
+my_reports_title = "自分のレポート";
+my_reports_empty_title = "まだレポートは追加されていません";
+my_reports_empty_description = "地図上のエリアにレポートを追加すると、ここに表示されます。";
+
+about_title = "SafeMapについて";
+about_what_title = "SafeMapとは？";
+about_description = "SafeMapは、コミュニティの投稿によって安全・危険なエリアを可視化することを目的とした地図アプリです。\n\nユーザーは体験を共有し、周囲の地域について他の人に情報を提供します。私たちの目標は、誰もがより安心できるデジタル空間を作ることです。";
+
+community_rules_title = "コミュニティルール";
+
+rule_respect_title = "敬意を持って";
+rule_respect_desc = "侮辱、脅迫、ヘイトを含む内容は許可されません。";
+
+rule_truth_title = "正確な情報を共有";
+rule_truth_desc = "実際に体験した本当の情報のみ共有してください。";
+
+rule_privacy_title = "プライバシーを尊重";
+rule_privacy_desc = "個人情報、名前、顔を共有しないでください。";
+
+rule_protect_title = "コミュニティを守る";
+rule_protect_desc = "誤解を招く、または不適切な内容を報告してください。";
+
+rules_warning = "ルールに違反するコンテンツは削除され、アカウントが停止される場合があります。";
+
+feedback_title = "フィードバック";
+feedback_description = "共有したいフィードバック";
+feedback_send_button = "送信";
+
+edit_profile_email = "メール";
+
+location_status_on = "位置情報の許可はオンです";
+location_status_off = "位置情報の許可はオフです";
+
+feedback_success_title = "送信されました";
+feedback_success_message = "フィードバックありがとうございます。";
+feedback_mail_error = "メールを送信できませんでした。端末にメールアカウントが設定されていることを確認してください。";
+
+report_nav_title = "レポートを追加";
+report_title = "エリアのレポートを残す";
+report_selected_location = "選択した場所";
+report_safety_question = "このエリアはどれくらい安全ですか？";
+report_safe = "安全";
+report_medium = "普通";
+report_unsafe = "危険";
+report_comment_title = "コメント";
+report_submit = "送信";
+
+cluster_title = "エリアのレポート";
+cluster_average = "平均";
+cluster_directions = "経路案内";
+
+done = "完了";
+cancel = "キャンセル";
+
+safe = "安全";
+medium_safe = "やや安全";
+unsafe = "危険";
+
+delete = "削除";
+delete_report_title = "レポートを削除";
+delete_report_message = "このレポートを削除してもよろしいですか？";
+delete_confirm = "削除";
+cancel = "キャンセル";
+
+forgot_password = "パスワードをお忘れですか？";
+forgot_password_title = "パスワードのリセット";
+forgot_password_description = "メールアドレスを入力してください。パスワード再設定用のリンクを送信します。";
+forgot_password_send = "リセットメールを送信";
+forgot_password_success_title = "メールを送信しました";
+forgot_password_success_message = "パスワード再設定リンクをメールアドレスに送信しました。";
+

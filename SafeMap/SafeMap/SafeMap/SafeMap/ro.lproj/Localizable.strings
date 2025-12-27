@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Selectarea limbii";
+language_subtitle = "Poți alege limba în care dorești să folosești SafeMap.";
+
+home_subtitle = "Senzația de siguranță pe hartă";
+button_login = "Autentificare";
+button_register = "Înregistrare";
+
+login_subtitle = "Să facem împreună zonele sigure vizibile";
+login_email_placeholder = "E-mail";
+login_password_placeholder = "Parolă";
+login_no_account = "Nu ai cont? Înregistrează-te";
+button_login = "Autentificare";
+
+register_title = "Alătură-te nouă";
+register_fullname_placeholder = "Nume complet";
+register_email_placeholder = "E-mail";
+register_password_placeholder = "Parolă";
+button_register_continue = "Înregistrează-te și continuă";
+
+home_search_placeholder = "Caută adresă, zonă sau loc";
+
+settings_title = "Setări";
+
+settings_edit_profile = "Editează profilul";
+settings_trusted_contacts = "Contacte de încredere";
+settings_location = "Setări locație";
+settings_notifications = "Setări notificări";
+settings_language = "Schimbă limba";
+settings_my_reports = "Rapoarte adăugate";
+settings_about = "Despre SafeMap";
+settings_feedback = "Trimite feedback";
+
+settings_logout = "Deconectare";
+settings_delete_account = "Șterge contul";
+
+logout_title = "Deconectare";
+logout_message = "Ești sigur că vrei să te deconectezi din cont?";
+logout_confirm = "Deconectare";
+
+delete_title = "Șterge contul";
+delete_message = "Această acțiune nu poate fi anulată. Ești sigur că vrei să ștergi contul?";
+delete_confirm = "Șterge contul";
+
+cancel = "Anulează";
+
+edit_profile_title = "Editează profilul";
+
+edit_profile_fullname = "Nume complet";
+edit_profile_phone = "Număr de telefon";
+edit_profile_phone_placeholder = "Telefon";
+edit_profile_age = "Vârstă";
+edit_profile_gender = "Gen";
+
+gender_female = "Feminin";
+gender_male = "Masculin";
+
+save = "Salvează";
+
+trusted_contacts_title = "Contacte de încredere";
+trusted_contacts_info = "Aici poți adăuga persoane care vor fi contactate în situații de urgență.";
+trusted_contacts_add = "Adaugă contact";
+
+location_settings_title = "Setări locație";
+location_settings_info = "SafeMap are nevoie de permisiunea de localizare pentru a afișa zonele sigure și riscante din apropierea ta. Locația ta este utilizată doar pentru afișarea zonelor sigure pe hartă.";
+location_settings_open = "Mergi la Setări";
+
+notification_settings_title = "Setări notificări";
+notification_main_toggle = "Primește notificări din aplicație";
+notification_nearby_risks = "Riscuri din apropiere";
+notification_trusted_alerts = "Alerte de la contacte de încredere";
+notification_info = "Când dezactivezi notificările, SafeMap nu te va alerta despre riscurile din apropiere sau contactele de încredere.";
+
+my_reports_title = "Rapoartele mele";
+my_reports_empty_title = "Nu există rapoarte adăugate încă";
+my_reports_empty_description = "Când adaugi un raport pentru o zonă pe hartă, acesta va apărea aici.";
+
+about_title = "Despre SafeMap";
+about_what_title = "Ce este SafeMap?";
+about_description = "SafeMap este o aplicație de hărți care își propune să facă vizibile zonele sigure și riscante prin contribuțiile comunității.\n\nUtilizatorii își împărtășesc experiențele pentru a-i informa pe alții despre mediul înconjurător. Scopul nostru este să creăm un spațiu digital în care toată lumea să se simtă mai în siguranță.";
+
+community_rules_title = "Reguli ale comunității";
+
+rule_respect_title = "Fii respectuos";
+rule_respect_desc = "Conținutul insultător, amenințător sau care incită la ură nu este permis.";
+
+rule_truth_title = "Distribuie informații corecte";
+rule_truth_desc = "Distribuie doar experiențe reale și trăite.";
+
+rule_privacy_title = "Respectă confidențialitatea";
+rule_privacy_desc = "Nu distribui informații personale, nume sau fețe.";
+
+rule_protect_title = "Protejează comunitatea";
+rule_protect_desc = "Raportează conținutul înșelător sau nepotrivit.";
+
+rules_warning = "Conținutul care încalcă regulile poate fi eliminat, iar conturile pot fi suspendate.";
+
+feedback_title = "Feedback";
+feedback_description = "Feedback-ul pe care dorești să îl împărtășești cu noi";
+feedback_send_button = "Trimite";
+
+edit_profile_email = "E-mail";
+
+location_status_on = "Permisiunea de localizare este activată";
+location_status_off = "Permisiunea de localizare este dezactivată";
+
+feedback_success_title = "Trimis";
+feedback_success_message = "Îți mulțumim pentru feedback.";
+feedback_mail_error = "E-mailul nu a putut fi trimis. Asigură-te că există un cont de e-mail configurat pe dispozitiv.";
+
+report_nav_title = "Adaugă raport";
+report_title = "Lasă un raport pentru această zonă";
+report_selected_location = "Locație selectată";
+report_safety_question = "Cât de sigură este această zonă?";
+report_safe = "Sigură";
+report_medium = "Mediu";
+report_unsafe = "Nesigură";
+report_comment_title = "Comentariu";
+report_submit = "Trimite";
+
+cluster_title = "Rapoarte zonă";
+cluster_average = "Medie";
+cluster_directions = "Indicații";
+
+done = "Gata";
+cancel = "Anulează";
+
+safe = "Sigură";
+medium_safe = "Moderat sigură";
+unsafe = "Nesigură";
+
+delete = "Șterge";
+delete_report_title = "Șterge raportul";
+delete_report_message = "Ești sigur că vrei să ștergi acest raport?";
+delete_confirm = "Șterge";
+cancel = "Anulează";
+
+forgot_password = "Ai uitat parola?";
+forgot_password_title = "Resetare parolă";
+forgot_password_description = "Introdu adresa ta de e-mail și îți vom trimite un link pentru resetarea parolei.";
+forgot_password_send = "Trimite e-mail de resetare";
+forgot_password_success_title = "E-mail trimis";
+forgot_password_success_message = "Linkul pentru resetarea parolei a fost trimis la adresa ta de e-mail.";
+

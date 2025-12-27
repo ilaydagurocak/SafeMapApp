@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Kielen valinta";
+language_subtitle = "Voit valita kielen, jolla haluat käyttää SafeMapia.";
+
+home_subtitle = "Turvallisuuden tunne kartalla";
+button_login = "Kirjaudu sisään";
+button_register = "Rekisteröidy";
+
+login_subtitle = "Tehdään turvalliset paikat näkyviksi yhdessä";
+login_email_placeholder = "Sähköposti";
+login_password_placeholder = "Salasana";
+login_no_account = "Eikö sinulla ole tiliä? Rekisteröidy";
+button_login = "Kirjaudu sisään";
+
+register_title = "Liity joukkoomme";
+register_fullname_placeholder = "Koko nimi";
+register_email_placeholder = "Sähköposti";
+register_password_placeholder = "Salasana";
+button_register_continue = "Rekisteröidy ja jatka";
+
+home_search_placeholder = "Hae osoitetta, aluetta tai paikkaa";
+
+settings_title = "Asetukset";
+
+settings_edit_profile = "Muokkaa profiilia";
+settings_trusted_contacts = "Luotetut yhteystiedot";
+settings_location = "Sijaintiasetukset";
+settings_notifications = "Ilmoitusasetukset";
+settings_language = "Vaihda kieli";
+settings_my_reports = "Lisätyt raportit";
+settings_about = "Tietoja SafeMapista";
+settings_feedback = "Lähetä palautetta";
+
+settings_logout = "Kirjaudu ulos";
+settings_delete_account = "Poista tili";
+
+logout_title = "Kirjaudu ulos";
+logout_message = "Haluatko varmasti kirjautua ulos tililtäsi?";
+logout_confirm = "Kirjaudu ulos";
+
+delete_title = "Poista tili";
+delete_message = "Tätä toimintoa ei voi perua. Haluatko varmasti poistaa tilisi?";
+delete_confirm = "Poista tili";
+
+cancel = "Peruuta";
+
+edit_profile_title = "Muokkaa profiilia";
+
+edit_profile_fullname = "Koko nimi";
+edit_profile_phone = "Puhelinnumero";
+edit_profile_phone_placeholder = "Puhelin";
+edit_profile_age = "Ikä";
+edit_profile_gender = "Sukupuoli";
+
+gender_female = "Nainen";
+gender_male = "Mies";
+
+save = "Tallenna";
+
+trusted_contacts_title = "Luotetut yhteystiedot";
+trusted_contacts_info = "Täällä voit lisätä henkilöt, joihin otetaan yhteyttä hätätilanteissa.";
+trusted_contacts_add = "Lisää yhteystieto";
+
+location_settings_title = "Sijaintiasetukset";
+location_settings_info = "SafeMap tarvitsee sijaintiluvan näyttääkseen turvalliset ja riskialttiit alueet ympärilläsi. Sijaintiasi käytetään vain turvallisten alueiden näyttämiseen kartalla.";
+location_settings_open = "Siirry asetuksiin";
+
+notification_settings_title = "Ilmoitusasetukset";
+notification_main_toggle = "Vastaanota ilmoituksia sovelluksesta";
+notification_nearby_risks = "Läheiset riskit";
+notification_trusted_alerts = "Hälytykset luotetuilta yhteystiedoilta";
+notification_info = "Kun ilmoitukset on poistettu käytöstä, SafeMap ei varoita sinua läheisistä riskeistä tai luotetuista yhteystiedoista.";
+
+my_reports_title = "Omat raporttini";
+my_reports_empty_title = "Raportteja ei ole vielä lisätty";
+my_reports_empty_description = "Kun lisäät raportin alueelle kartalla, se näkyy täällä.";
+
+about_title = "Tietoja SafeMapista";
+about_what_title = "Mikä on SafeMap?";
+about_description = "SafeMap on karttasovellus, jonka tavoitteena on tehdä turvalliset ja riskialttiit alueet näkyviksi yhteisön panoksen avulla.\n\nKäyttäjät jakavat kokemuksiaan tiedottaakseen muita ympäristöstään. Tavoitteenamme on luoda digitaalinen tila, jossa kaikki voivat tuntea olonsa turvallisemmaksi.";
+
+community_rules_title = "Yhteisön säännöt";
+
+rule_respect_title = "Ole kunnioittava";
+rule_respect_desc = "Loukkaava, uhkaava tai vihamielinen sisältö ei ole sallittua.";
+
+rule_truth_title = "Jaa oikeaa tietoa";
+rule_truth_desc = "Jaa vain todellisia ja koettuja kokemuksia.";
+
+rule_privacy_title = "Kunnioita yksityisyyttä";
+rule_privacy_desc = "Älä jaa henkilökohtaisia tietoja, nimiä tai kasvoja.";
+
+rule_protect_title = "Suojele yhteisöä";
+rule_protect_desc = "Ilmoita harhaanjohtavasta tai sopimattomasta sisällöstä.";
+
+rules_warning = "Sääntöjä rikkova sisältö voidaan poistaa ja tilit voidaan jäädyttää.";
+
+feedback_title = "Palaute";
+feedback_description = "Palaute, jonka haluat jakaa kanssamme";
+feedback_send_button = "Lähetä";
+
+edit_profile_email = "Sähköposti";
+
+location_status_on = "Sijaintilupa on käytössä";
+location_status_off = "Sijaintilupa ei ole käytössä";
+
+feedback_success_title = "Lähetetty";
+feedback_success_message = "Kiitos palautteestasi.";
+feedback_mail_error = "Sähköpostia ei voitu lähettää. Varmista, että laitteessasi on määritetty sähköpostitili.";
+
+report_nav_title = "Lisää raportti";
+report_title = "Jätä raportti tälle alueelle";
+report_selected_location = "Valittu sijainti";
+report_safety_question = "Kuinka turvallinen tämä alue on?";
+report_safe = "Turvallinen";
+report_medium = "Keskitaso";
+report_unsafe = "Turvaton";
+report_comment_title = "Kommentti";
+report_submit = "Lähetä";
+
+cluster_title = "Alueraportit";
+cluster_average = "Keskiarvo";
+cluster_directions = "Reittiohjeet";
+
+done = "Valmis";
+cancel = "Peruuta";
+
+safe = "Turvallinen";
+medium_safe = "Melko turvallinen";
+unsafe = "Turvaton";
+
+delete = "Poista";
+delete_report_title = "Poista raportti";
+delete_report_message = "Haluatko varmasti poistaa tämän raportin?";
+delete_confirm = "Poista";
+cancel = "Peruuta";
+
+forgot_password = "Unohditko salasanasi?";
+forgot_password_title = "Salasanan palautus";
+forgot_password_description = "Syötä sähköpostiosoitteesi, niin lähetämme sinulle linkin salasanan palauttamiseksi.";
+forgot_password_send = "Lähetä palautussähköposti";
+forgot_password_success_title = "Sähköposti lähetetty";
+forgot_password_success_message = "Salasanan palautuslinkki on lähetetty sähköpostiosoitteeseesi.";
+

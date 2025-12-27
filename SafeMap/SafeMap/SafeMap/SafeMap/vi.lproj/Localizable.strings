@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Chọn Ngôn Ngữ";
+language_subtitle = "Bạn có thể chọn ngôn ngữ muốn sử dụng SafeMap.";
+
+home_subtitle = "Cảm giác an toàn qua bản đồ";
+button_login = "Đăng nhập";
+button_register = "Đăng ký";
+
+login_subtitle = "Hãy cùng nhau làm cho các khu vực an toàn trở nên dễ thấy hơn";
+login_email_placeholder = "Email";
+login_password_placeholder = "Mật khẩu";
+login_no_account = "Chưa có tài khoản? Đăng ký";
+button_login = "Đăng nhập";
+
+register_title = "Tham Gia Cùng Chúng Tôi";
+register_fullname_placeholder = "Họ và Tên";
+register_email_placeholder = "Email";
+register_password_placeholder = "Mật khẩu";
+button_register_continue = "Đăng ký & Tiếp tục";
+
+home_search_placeholder = "Tìm địa chỉ, khu vực hoặc địa điểm";
+
+settings_title = "Cài đặt";
+
+settings_edit_profile = "Chỉnh sửa hồ sơ";
+settings_trusted_contacts = "Liên hệ đáng tin cậy";
+settings_location = "Cài đặt vị trí";
+settings_notifications = "Cài đặt thông báo";
+settings_language = "Thay đổi ngôn ngữ";
+settings_my_reports = "Báo cáo đã thêm";
+settings_about = "Giới thiệu SafeMap";
+settings_feedback = "Gửi phản hồi";
+
+settings_logout = "Đăng xuất";
+settings_delete_account = "Xóa tài khoản";
+
+logout_title = "Đăng xuất";
+logout_message = "Bạn có chắc chắn muốn đăng xuất khỏi tài khoản của mình không?";
+logout_confirm = "Đăng xuất";
+
+delete_title = "Xóa tài khoản";
+delete_message = "Hành động này không thể hoàn tác. Bạn có chắc chắn muốn xóa tài khoản của mình không?";
+delete_confirm = "Xóa tài khoản";
+
+cancel = "Hủy";
+
+edit_profile_title = "Chỉnh sửa hồ sơ";
+
+edit_profile_fullname = "Họ và Tên";
+edit_profile_phone = "Số điện thoại";
+edit_profile_phone_placeholder = "Điện thoại";
+edit_profile_age = "Tuổi";
+edit_profile_gender = "Giới tính";
+
+gender_female = "Nữ";
+gender_male = "Nam";
+
+save = "Lưu";
+
+trusted_contacts_title = "Liên hệ đáng tin cậy";
+trusted_contacts_info = "Bạn có thể thêm những người sẽ được liên hệ trong các tình huống khẩn cấp tại đây.";
+trusted_contacts_add = "Thêm liên hệ";
+
+location_settings_title = "Cài đặt vị trí";
+location_settings_info = "SafeMap cần quyền truy cập vị trí để hiển thị các khu vực an toàn và rủi ro xung quanh bạn. Vị trí của bạn chỉ được sử dụng để hiển thị các khu vực an toàn trên bản đồ.";
+location_settings_open = "Đi tới Cài đặt";
+
+notification_settings_title = "Cài đặt thông báo";
+notification_main_toggle = "Nhận thông báo từ ứng dụng";
+notification_nearby_risks = "Rủi ro gần bạn";
+notification_trusted_alerts = "Cảnh báo từ liên hệ đáng tin cậy";
+notification_info = "Khi tắt thông báo, SafeMap sẽ không cảnh báo bạn về các rủi ro xung quanh hoặc các liên hệ đáng tin cậy.";
+
+my_reports_title = "Báo cáo của tôi";
+my_reports_empty_title = "Chưa có báo cáo nào";
+my_reports_empty_description = "Khi bạn thêm báo cáo cho một khu vực trên bản đồ, báo cáo đó sẽ xuất hiện tại đây.";
+
+about_title = "Giới thiệu SafeMap";
+about_what_title = "SafeMap là gì?";
+about_description = "SafeMap là một ứng dụng bản đồ nhằm hiển thị các khu vực an toàn và rủi ro thông qua sự đóng góp của cộng đồng.\n\nNgười dùng chia sẻ trải nghiệm của mình để cung cấp thông tin cho người khác về môi trường xung quanh. Mục tiêu của chúng tôi là tạo ra một không gian kỹ thuật số nơi mọi người có thể cảm thấy an toàn hơn.";
+
+community_rules_title = "Quy tắc cộng đồng";
+
+rule_respect_title = "Tôn trọng";
+rule_respect_desc = "Không cho phép nội dung xúc phạm, đe dọa hoặc thù ghét.";
+
+rule_truth_title = "Chia sẻ thông tin chính xác";
+rule_truth_desc = "Chỉ chia sẻ những trải nghiệm thực tế và có thật.";
+
+rule_privacy_title = "Tôn trọng quyền riêng tư";
+rule_privacy_desc = "Không chia sẻ thông tin cá nhân, tên hoặc khuôn mặt.";
+
+rule_protect_title = "Bảo vệ cộng đồng";
+rule_protect_desc = "Báo cáo nội dung gây hiểu lầm hoặc không phù hợp.";
+
+rules_warning = "Nội dung vi phạm quy tắc có thể bị xóa và tài khoản có thể bị đình chỉ.";
+
+feedback_title = "Phản hồi";
+feedback_description = "Phản hồi bạn muốn chia sẻ với chúng tôi";
+feedback_send_button = "Gửi";
+
+edit_profile_email = "Email";
+
+location_status_on = "Quyền truy cập vị trí đã được bật";
+location_status_off = "Quyền truy cập vị trí đã bị tắt";
+
+feedback_success_title = "Đã gửi";
+feedback_success_message = "Cảm ơn bạn đã gửi phản hồi.";
+feedback_mail_error = "Không thể gửi email. Vui lòng đảm bảo rằng thiết bị của bạn đã được thiết lập tài khoản email.";
+
+report_nav_title = "Thêm báo cáo";
+report_title = "Để lại báo cáo cho khu vực này";
+report_selected_location = "Vị trí đã chọn";
+report_safety_question = "Khu vực này an toàn đến mức nào?";
+report_safe = "An toàn";
+report_medium = "Trung bình";
+report_unsafe = "Không an toàn";
+report_comment_title = "Bình luận";
+report_submit = "Gửi";
+
+cluster_title = "Báo cáo khu vực";
+cluster_average = "Trung bình";
+cluster_directions = "Chỉ đường";
+
+done = "Hoàn tất";
+cancel = "Hủy";
+
+safe = "An toàn";
+medium_safe = "Khá an toàn";
+unsafe = "Không an toàn";
+
+delete = "Xóa";
+delete_report_title = "Xóa báo cáo";
+delete_report_message = "Bạn có chắc chắn muốn xóa báo cáo này không?";
+delete_confirm = "Xóa";
+cancel = "Hủy";
+
+forgot_password = "Quên mật khẩu?";
+forgot_password_title = "Đặt lại mật khẩu";
+forgot_password_description = "Nhập địa chỉ email của bạn, chúng tôi sẽ gửi cho bạn liên kết đặt lại mật khẩu.";
+forgot_password_send = "Gửi email đặt lại";
+forgot_password_success_title = "Email đã được gửi";
+forgot_password_success_message = "Liên kết đặt lại mật khẩu đã được gửi đến địa chỉ email của bạn.";
+

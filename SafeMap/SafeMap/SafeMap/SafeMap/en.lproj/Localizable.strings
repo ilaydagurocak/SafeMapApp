@@ -1,0 +1,121 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+
+
+
+language_title = "Language";
+language_subtitle = "Choose the language you want to use SafeMap in.";
+
+home_subtitle = "The map of feeling safe";
+button_login = "Log In";
+button_register = "Sign Up";
+
+login_subtitle = "Make safe areas visible together";
+login_email_placeholder = "Email";
+login_password_placeholder = "Password";
+login_no_account = "Don't have an account? Sign up";
+button_login = "Log In";
+
+register_title = "Join Us";
+register_fullname_placeholder = "Full Name";
+register_email_placeholder = "Email";
+register_password_placeholder = "Password";
+button_register_continue = "Sign Up & Continue";
+
+home_search_placeholder = "Search address, neighborhood or place";
+
+
+settings_title = "Settings";
+
+settings_edit_profile = "Edit Profile";
+settings_trusted_contacts = "Trusted Contacts";
+settings_location = "Location Settings";
+settings_notifications = "Notification Settings";
+settings_language = "Change Language";
+settings_my_reports = "My Reports";
+settings_about = "About SafeMap";
+settings_feedback = "Send Feedback";
+
+settings_logout = "Log Out";
+settings_delete_account = "Delete Account";
+
+logout_title = "Log Out";
+logout_message = "Are you sure you want to log out?";
+logout_confirm = "Log Out";
+
+delete_title = "Delete Account";
+delete_message = "This action cannot be undone. Are you sure?";
+delete_confirm = "Delete Account";
+
+cancel = "Cancel";
+
+edit_profile_title = "Edit Profile";
+
+edit_profile_fullname = "Full Name";
+edit_profile_phone = "Phone Number";
+edit_profile_phone_placeholder = "Phone";
+edit_profile_age = "Age";
+edit_profile_gender = "Gender";
+
+gender_female = "Female";
+gender_male = "Male";
+
+save = "Save";
+
+trusted_contacts_title = "Trusted Contacts";
+trusted_contacts_info = "You can add people here who will be contacted in case of emergency.";
+trusted_contacts_add = "Add Contact";
+
+
+location_settings_title = "Location Settings";
+location_settings_info = "SafeMap needs location permission to show safe and risky areas around you. Your location is only used to display safe zones on the map.";
+location_settings_open = "Open Settings";
+
+notification_settings_title = "Notification Settings";
+notification_main_toggle = "Receive notifications from the app";
+notification_nearby_risks = "Nearby risks";
+notification_trusted_alerts = "Alerts from trusted contacts";
+notification_info = "When notifications are turned off, SafeMap will not notify you about nearby risks or trusted contacts.";
+
+my_reports_title = "My Reports";
+my_reports_empty_title = "No comments yet";
+my_reports_empty_description = "When you add a comment to a location on the map, it will appear here.";
+
+about_title = "About SafeMap";
+about_what_title = "What is SafeMap?";
+about_description = "SafeMap is a map-based application that aims to make safe and risky areas visible through community contributions.\n\nUsers share their experiences to inform others about surrounding areas. Our goal is to create a digital space where everyone can feel safer.";
+
+community_rules_title = "Community Guidelines";
+
+rule_respect_title = "Be Respectful";
+rule_respect_desc = "Insults, threats, and hateful content are not allowed.";
+
+rule_truth_title = "Share Accurate Information";
+rule_truth_desc = "Only share real and experienced situations.";
+
+rule_privacy_title = "Respect Privacy";
+rule_privacy_desc = "Do not share personal information, names, or faces.";
+
+rule_protect_title = "Protect the Community";
+rule_protect_desc = "Report misleading or inappropriate content.";
+
+rules_warning = "Content that violates the rules may be removed and accounts may be suspended.";
+
+feedback_title = "Feedback";
+feedback_description = "Share any feedback you would like to tell us";
+feedback_send_button = "Send";
+
+edit_profile_email = "E-mail";
+
+
+location_status_on = "Location access is enabled";
+location_status_off = "Location access is disabled";
+
+feedback_success_title = "Sent";
+feedback_success_message = "Thank you for your feedback.";
+feedback_mail_error = "Mail could not be sent. Please make sure a Mail account is set up on your device.";

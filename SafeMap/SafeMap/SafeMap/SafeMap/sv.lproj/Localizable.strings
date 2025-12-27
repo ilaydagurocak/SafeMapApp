@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Språkval";
+language_subtitle = "Du kan välja vilket språk du vill använda SafeMap på.";
+
+home_subtitle = "Känslan av trygghet på kartan";
+button_login = "Logga in";
+button_register = "Registrera";
+
+login_subtitle = "Låt oss göra säkra platser synliga tillsammans";
+login_email_placeholder = "E-post";
+login_password_placeholder = "Lösenord";
+login_no_account = "Har du inget konto? Registrera dig";
+button_login = "Logga in";
+
+register_title = "Gå med oss";
+register_fullname_placeholder = "Fullständigt namn";
+register_email_placeholder = "E-post";
+register_password_placeholder = "Lösenord";
+button_register_continue = "Registrera och fortsätt";
+
+home_search_placeholder = "Sök adress, område eller plats";
+
+settings_title = "Inställningar";
+
+settings_edit_profile = "Redigera profil";
+settings_trusted_contacts = "Betrodda kontakter";
+settings_location = "Platsinställningar";
+settings_notifications = "Aviseringsinställningar";
+settings_language = "Byt språk";
+settings_my_reports = "Tillagda rapporter";
+settings_about = "Om SafeMap";
+settings_feedback = "Skicka feedback";
+
+settings_logout = "Logga ut";
+settings_delete_account = "Ta bort konto";
+
+logout_title = "Logga ut";
+logout_message = "Är du säker på att du vill logga ut från ditt konto?";
+logout_confirm = "Logga ut";
+
+delete_title = "Ta bort konto";
+delete_message = "Denna åtgärd kan inte ångras. Är du säker på att du vill ta bort ditt konto?";
+delete_confirm = "Ta bort konto";
+
+cancel = "Avbryt";
+
+edit_profile_title = "Redigera profil";
+
+edit_profile_fullname = "Fullständigt namn";
+edit_profile_phone = "Telefonnummer";
+edit_profile_phone_placeholder = "Telefon";
+edit_profile_age = "Ålder";
+edit_profile_gender = "Kön";
+
+gender_female = "Kvinna";
+gender_male = "Man";
+
+save = "Spara";
+
+trusted_contacts_title = "Betrodda kontakter";
+trusted_contacts_info = "Här kan du lägga till personer som kontaktas i nödsituationer.";
+trusted_contacts_add = "Lägg till kontakt";
+
+location_settings_title = "Platsinställningar";
+location_settings_info = "SafeMap behöver platsbehörighet för att visa säkra och riskfyllda områden i närheten av dig. Din plats används endast för att visa säkra områden på kartan.";
+location_settings_open = "Gå till inställningar";
+
+notification_settings_title = "Aviseringsinställningar";
+notification_main_toggle = "Ta emot aviseringar från appen";
+notification_nearby_risks = "Risker i närheten";
+notification_trusted_alerts = "Varningar från betrodda kontakter";
+notification_info = "När aviseringar är avstängda kommer SafeMap inte att varna dig om risker i närheten eller betrodda kontakter.";
+
+my_reports_title = "Mina rapporter";
+my_reports_empty_title = "Inga rapporter har lagts till ännu";
+my_reports_empty_description = "När du lägger till en rapport för ett område på kartan visas den här.";
+
+about_title = "Om SafeMap";
+about_what_title = "Vad är SafeMap?";
+about_description = "SafeMap är en kartapplikation som syftar till att göra säkra och riskfyllda områden synliga genom bidrag från communityn.\n\nAnvändare delar sina erfarenheter för att informera andra om sin omgivning. Vårt mål är att skapa ett digitalt utrymme där alla kan känna sig tryggare.";
+
+community_rules_title = "Communityregler";
+
+rule_respect_title = "Visa respekt";
+rule_respect_desc = "Stötande, hotfullt eller hatfullt innehåll är inte tillåtet.";
+
+rule_truth_title = "Dela korrekt information";
+rule_truth_desc = "Dela endast verkliga och egna upplevelser.";
+
+rule_privacy_title = "Respektera integriteten";
+rule_privacy_desc = "Dela inte personlig information, namn eller ansikten.";
+
+rule_protect_title = "Skydda communityn";
+rule_protect_desc = "Anmäl vilseledande eller olämpligt innehåll.";
+
+rules_warning = "Innehåll som bryter mot reglerna kan tas bort och konton kan stängas av.";
+
+feedback_title = "Feedback";
+feedback_description = "Den feedback du vill dela med oss";
+feedback_send_button = "Skicka";
+
+edit_profile_email = "E-post";
+
+location_status_on = "Platsbehörighet aktiverad";
+location_status_off = "Platsbehörighet inaktiverad";
+
+feedback_success_title = "Skickat";
+feedback_success_message = "Tack för din feedback.";
+feedback_mail_error = "E-postmeddelandet kunde inte skickas. Se till att ett e-postkonto är konfigurerat på din enhet.";
+
+report_nav_title = "Lägg till rapport";
+report_title = "Lämna en rapport för detta område";
+report_selected_location = "Vald plats";
+report_safety_question = "Hur säker är detta område?";
+report_safe = "Säker";
+report_medium = "Mellan";
+report_unsafe = "Osäker";
+report_comment_title = "Kommentar";
+report_submit = "Skicka";
+
+cluster_title = "Områdesrapporter";
+cluster_average = "Genomsnitt";
+cluster_directions = "Vägbeskrivning";
+
+done = "Klar";
+cancel = "Avbryt";
+
+safe = "Säker";
+medium_safe = "Måttligt säker";
+unsafe = "Osäker";
+
+delete = "Ta bort";
+delete_report_title = "Ta bort rapport";
+delete_report_message = "Är du säker på att du vill ta bort denna rapport?";
+delete_confirm = "Ta bort";
+cancel = "Avbryt";
+
+forgot_password = "Glömt lösenord?";
+forgot_password_title = "Återställ lösenord";
+forgot_password_description = "Ange din e-postadress så skickar vi en länk för att återställa ditt lösenord.";
+forgot_password_send = "Skicka återställningsmail";
+forgot_password_success_title = "E-post skickat";
+forgot_password_success_message = "Länken för att återställa lösenordet har skickats till din e-postadress.";
+

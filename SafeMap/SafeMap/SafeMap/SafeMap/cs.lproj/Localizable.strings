@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Výběr jazyka";
+language_subtitle = "Můžete si vybrat jazyk, ve kterém chcete SafeMap používat.";
+
+home_subtitle = "Pocit bezpečí na mapě";
+button_login = "Přihlásit se";
+button_register = "Zaregistrovat se";
+
+login_subtitle = "Společně zviditelněme bezpečná místa";
+login_email_placeholder = "E-mail";
+login_password_placeholder = "Heslo";
+login_no_account = "Nemáte účet? Zaregistrujte se";
+button_login = "Přihlásit se";
+
+register_title = "Připojte se k nám";
+register_fullname_placeholder = "Jméno a příjmení";
+register_email_placeholder = "E-mail";
+register_password_placeholder = "Heslo";
+button_register_continue = "Zaregistrovat se a pokračovat";
+
+home_search_placeholder = "Hledat adresu, čtvrť nebo místo";
+
+settings_title = "Nastavení";
+
+settings_edit_profile = "Upravit profil";
+settings_trusted_contacts = "Důvěryhodné kontakty";
+settings_location = "Nastavení polohy";
+settings_notifications = "Nastavení oznámení";
+settings_language = "Změnit jazyk";
+settings_my_reports = "Přidané hlášení";
+settings_about = "O SafeMap";
+settings_feedback = "Odeslat zpětnou vazbu";
+
+settings_logout = "Odhlásit se";
+settings_delete_account = "Smazat účet";
+
+logout_title = "Odhlásit se";
+logout_message = "Opravdu se chcete odhlásit ze svého účtu?";
+logout_confirm = "Odhlásit se";
+
+delete_title = "Smazat účet";
+delete_message = "Tuto akci nelze vrátit zpět. Opravdu chcete smazat svůj účet?";
+delete_confirm = "Smazat účet";
+
+cancel = "Zrušit";
+
+edit_profile_title = "Upravit profil";
+
+edit_profile_fullname = "Jméno a příjmení";
+edit_profile_phone = "Telefonní číslo";
+edit_profile_phone_placeholder = "Telefon";
+edit_profile_age = "Věk";
+edit_profile_gender = "Pohlaví";
+
+gender_female = "Žena";
+gender_male = "Muž";
+
+save = "Uložit";
+
+trusted_contacts_title = "Důvěryhodné kontakty";
+trusted_contacts_info = "Zde můžete přidat osoby, které budou kontaktovány v případě nouze.";
+trusted_contacts_add = "Přidat kontakt";
+
+location_settings_title = "Nastavení polohy";
+location_settings_info = "SafeMap potřebuje povolení k poloze, aby mohla zobrazovat bezpečné a rizikové oblasti ve vašem okolí. Vaše poloha se používá pouze k zobrazení bezpečných oblastí na mapě.";
+location_settings_open = "Přejít do nastavení";
+
+notification_settings_title = "Nastavení oznámení";
+notification_main_toggle = "Přijímat oznámení z aplikace";
+notification_nearby_risks = "Rizika v okolí";
+notification_trusted_alerts = "Upozornění od důvěryhodných kontaktů";
+notification_info = "Po vypnutí oznámení vás SafeMap nebude upozorňovat na rizika v okolí ani na důvěryhodné kontakty.";
+
+my_reports_title = "Moje hlášení";
+my_reports_empty_title = "Zatím nebyla přidána žádná hlášení";
+my_reports_empty_description = "Když přidáte hlášení pro oblast na mapě, zobrazí se zde.";
+
+about_title = "O SafeMap";
+about_what_title = "Co je SafeMap?";
+about_description = "SafeMap je mapová aplikace, jejímž cílem je zviditelnit bezpečné a rizikové oblasti díky příspěvkům komunity.\n\nUživatelé sdílejí své zkušenosti, aby informovali ostatní o svém okolí. Naším cílem je vytvořit digitální prostor, kde se každý bude cítit bezpečněji.";
+
+community_rules_title = "Pravidla komunity";
+
+rule_respect_title = "Buďte ohleduplní";
+rule_respect_desc = "Urážlivý, výhružný nebo nenávistný obsah není povolen.";
+
+rule_truth_title = "Sdílejte přesné informace";
+rule_truth_desc = "Sdílejte pouze skutečné a osobně zažité zkušenosti.";
+
+rule_privacy_title = "Respektujte soukromí";
+rule_privacy_desc = "Nesdílejte osobní údaje, jména ani obličeje.";
+
+rule_protect_title = "Chraňte komunitu";
+rule_protect_desc = "Nahlašujte zavádějící nebo nevhodný obsah.";
+
+rules_warning = "Obsah porušující pravidla může být odstraněn a účty mohou být pozastaveny.";
+
+feedback_title = "Zpětná vazba";
+feedback_description = "Zpětná vazba, kterou s námi chcete sdílet";
+feedback_send_button = "Odeslat";
+
+edit_profile_email = "E-mail";
+
+location_status_on = "Přístup k poloze je povolen";
+location_status_off = "Přístup k poloze je zakázán";
+
+feedback_success_title = "Odesláno";
+feedback_success_message = "Děkujeme za vaši zpětnou vazbu.";
+feedback_mail_error = "E-mail se nepodařilo odeslat. Ujistěte se, že máte v zařízení nastavený e-mailový účet.";
+
+report_nav_title = "Přidat hlášení";
+report_title = "Zanechat hlášení pro tuto oblast";
+report_selected_location = "Vybraná poloha";
+report_safety_question = "Jak bezpečná je tato oblast?";
+report_safe = "Bezpečná";
+report_medium = "Střední";
+report_unsafe = "Nebezpečná";
+report_comment_title = "Komentář";
+report_submit = "Odeslat";
+
+cluster_title = "Hlášení oblasti";
+cluster_average = "Průměr";
+cluster_directions = "Navigace";
+
+done = "Hotovo";
+cancel = "Zrušit";
+
+safe = "Bezpečná";
+medium_safe = "Středně bezpečná";
+unsafe = "Nebezpečná";
+
+delete = "Smazat";
+delete_report_title = "Smazat hlášení";
+delete_report_message = "Opravdu chcete toto hlášení smazat?";
+delete_confirm = "Smazat";
+cancel = "Zrušit";
+
+forgot_password = "Zapomněli jste heslo?";
+forgot_password_title = "Obnovení hesla";
+forgot_password_description = "Zadejte svou e-mailovou adresu a my vám zašleme odkaz pro obnovení hesla.";
+forgot_password_send = "Odeslat e-mail pro obnovení";
+forgot_password_success_title = "E-mail odeslán";
+forgot_password_success_message = "Odkaz pro obnovení hesla byl odeslán na vaši e-mailovou adresu.";
+

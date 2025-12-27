@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "언어 선택";
+language_subtitle = "SafeMap에서 사용할 언어를 선택할 수 있습니다.";
+
+home_subtitle = "지도로 느끼는 안전";
+button_login = "로그인";
+button_register = "회원가입";
+
+login_subtitle = "안전한 공간을 함께 가시화하세요";
+login_email_placeholder = "이메일";
+login_password_placeholder = "비밀번호";
+login_no_account = "계정이 없으신가요? 회원가입";
+button_login = "로그인";
+
+register_title = "함께하기";
+register_fullname_placeholder = "이름";
+register_email_placeholder = "이메일";
+register_password_placeholder = "비밀번호";
+button_register_continue = "가입하고 계속하기";
+
+home_search_placeholder = "주소, 동네 또는 장소 검색";
+
+settings_title = "설정";
+
+settings_edit_profile = "프로필 수정";
+settings_trusted_contacts = "신뢰할 수 있는 연락처";
+settings_location = "위치 설정";
+settings_notifications = "알림 설정";
+settings_language = "언어 변경";
+settings_my_reports = "추가된 신고";
+settings_about = "SafeMap 정보";
+settings_feedback = "피드백 보내기";
+
+settings_logout = "로그아웃";
+settings_delete_account = "계정 삭제";
+
+logout_title = "로그아웃";
+logout_message = "계정에서 로그아웃하시겠습니까?";
+logout_confirm = "로그아웃";
+
+delete_title = "계정 삭제";
+delete_message = "이 작업은 되돌릴 수 없습니다. 계정을 삭제하시겠습니까?";
+delete_confirm = "계정 삭제";
+
+cancel = "취소";
+
+edit_profile_title = "프로필 수정";
+
+edit_profile_fullname = "이름";
+edit_profile_phone = "전화번호";
+edit_profile_phone_placeholder = "전화";
+edit_profile_age = "나이";
+edit_profile_gender = "성별";
+
+gender_female = "여성";
+gender_male = "남성";
+
+save = "저장";
+
+trusted_contacts_title = "신뢰할 수 있는 연락처";
+trusted_contacts_info = "긴급 상황 시 연락할 사람을 여기에 추가할 수 있습니다.";
+trusted_contacts_add = "연락처 추가";
+
+location_settings_title = "위치 설정";
+location_settings_info = "SafeMap은 주변의 안전 및 위험 지역을 표시하기 위해 위치 권한이 필요합니다. 위치 정보는 지도에서 안전한 지역을 표시하는 용도로만 사용됩니다.";
+location_settings_open = "설정으로 이동";
+
+notification_settings_title = "알림 설정";
+notification_main_toggle = "앱 알림 받기";
+notification_nearby_risks = "근처 위험";
+notification_trusted_alerts = "신뢰할 수 있는 연락처 알림";
+notification_info = "알림을 끄면 SafeMap은 근처 위험이나 신뢰할 수 있는 연락처에 대한 알림을 보내지 않습니다.";
+
+my_reports_title = "내 신고";
+my_reports_empty_title = "아직 추가된 신고가 없습니다";
+my_reports_empty_description = "지도에서 지역에 신고를 추가하면 여기에 표시됩니다.";
+
+about_title = "SafeMap 정보";
+about_what_title = "SafeMap이란?";
+about_description = "SafeMap은 커뮤니티 기여를 통해 안전 및 위험 지역을 시각적으로 보여주는 지도 애플리케이션입니다.\n\n사용자는 자신의 경험을 공유하여 주변 지역에 대한 정보를 다른 사람들과 나눕니다. 우리의 목표는 모두가 더 안전함을 느낄 수 있는 디지털 공간을 만드는 것입니다.";
+
+community_rules_title = "커뮤니티 규칙";
+
+rule_respect_title = "존중하기";
+rule_respect_desc = "모욕, 위협 및 혐오 표현은 허용되지 않습니다.";
+
+rule_truth_title = "정확한 정보 공유";
+rule_truth_desc = "실제 경험한 사실만 공유하세요.";
+
+rule_privacy_title = "개인정보 보호";
+rule_privacy_desc = "개인 정보, 이름 또는 얼굴을 공유하지 마세요.";
+
+rule_protect_title = "커뮤니티 보호";
+rule_protect_desc = "오해를 불러일으키거나 부적절한 콘텐츠를 신고하세요.";
+
+rules_warning = "규칙을 위반한 콘텐츠는 삭제되거나 계정이 정지될 수 있습니다.";
+
+feedback_title = "피드백";
+feedback_description = "저희와 공유하고 싶은 피드백";
+feedback_send_button = "보내기";
+
+edit_profile_email = "이메일";
+
+location_status_on = "위치 권한이 활성화되었습니다";
+location_status_off = "위치 권한이 비활성화되었습니다";
+
+feedback_success_title = "전송됨";
+feedback_success_message = "피드백 감사합니다.";
+feedback_mail_error = "이메일을 보낼 수 없습니다. 기기에 메일 계정이 설정되어 있는지 확인하세요.";
+
+report_nav_title = "신고 추가";
+report_title = "해당 지역에 신고 남기기";
+report_selected_location = "선택한 위치";
+report_safety_question = "이 지역은 얼마나 안전한가요?";
+report_safe = "안전";
+report_medium = "보통";
+report_unsafe = "위험";
+report_comment_title = "댓글";
+report_submit = "제출";
+
+cluster_title = "지역 신고";
+cluster_average = "평균";
+cluster_directions = "길 안내";
+
+done = "완료";
+cancel = "취소";
+
+safe = "안전";
+medium_safe = "보통으로 안전";
+unsafe = "위험";
+
+delete = "삭제";
+delete_report_title = "신고 삭제";
+delete_report_message = "이 신고를 삭제하시겠습니까?";
+delete_confirm = "삭제";
+cancel = "취소";
+
+forgot_password = "비밀번호를 잊으셨나요?";
+forgot_password_title = "비밀번호 재설정";
+forgot_password_description = "이메일 주소를 입력하면 비밀번호 재설정 링크를 보내드립니다.";
+forgot_password_send = "재설정 메일 보내기";
+forgot_password_success_title = "이메일 전송됨";
+forgot_password_success_message = "비밀번호 재설정 링크가 이메일로 전송되었습니다.";
+

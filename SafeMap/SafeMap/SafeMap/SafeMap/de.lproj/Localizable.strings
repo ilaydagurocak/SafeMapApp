@@ -1,0 +1,150 @@
+//
+//  Localizable.strings
+//  SafeMap
+//
+//  Created by İlayda Gürocak on 17.12.2025.
+//
+
+language_title = "Sprachauswahl";
+language_subtitle = "Wähle die Sprache aus, in der du SafeMap verwenden möchtest.";
+
+home_subtitle = "Das Gefühl von Sicherheit auf der Karte";
+button_login = "Anmelden";
+button_register = "Registrieren";
+
+login_subtitle = "Lass uns gemeinsam sichere Orte sichtbar machen";
+login_email_placeholder = "E-Mail";
+login_password_placeholder = "Passwort";
+login_no_account = "Noch kein Konto? Registrieren";
+button_login = "Anmelden";
+
+register_title = "Mach mit";
+register_fullname_placeholder = "Vollständiger Name";
+register_email_placeholder = "E-Mail";
+register_password_placeholder = "Passwort";
+button_register_continue = "Registrieren & Fortfahren";
+
+home_search_placeholder = "Adresse, Stadtteil oder Ort suchen";
+
+settings_title = "Einstellungen";
+
+settings_edit_profile = "Profil bearbeiten";
+settings_trusted_contacts = "Vertrauenspersonen";
+settings_location = "Standorteinstellungen";
+settings_notifications = "Benachrichtigungseinstellungen";
+settings_language = "Sprache ändern";
+settings_my_reports = "Hinzugefügte Meldungen";
+settings_about = "Über SafeMap";
+settings_feedback = "Feedback senden";
+
+settings_logout = "Abmelden";
+settings_delete_account = "Konto löschen";
+
+logout_title = "Abmelden";
+logout_message = "Möchtest du dich wirklich von deinem Konto abmelden?";
+logout_confirm = "Abmelden";
+
+delete_title = "Konto löschen";
+delete_message = "Diese Aktion kann nicht rückgängig gemacht werden. Möchtest du dein Konto wirklich löschen?";
+delete_confirm = "Konto löschen";
+
+cancel = "Abbrechen";
+
+edit_profile_title = "Profil bearbeiten";
+
+edit_profile_fullname = "Vollständiger Name";
+edit_profile_phone = "Telefonnummer";
+edit_profile_phone_placeholder = "Telefon";
+edit_profile_age = "Alter";
+edit_profile_gender = "Geschlecht";
+
+gender_female = "Weiblich";
+gender_male = "Männlich";
+
+save = "Speichern";
+
+trusted_contacts_title = "Vertrauenspersonen";
+trusted_contacts_info = "Hier kannst du Personen hinzufügen, die im Notfall kontaktiert werden.";
+trusted_contacts_add = "Kontakt hinzufügen";
+
+location_settings_title = "Standorteinstellungen";
+location_settings_info = "SafeMap benötigt die Standortfreigabe, um sichere und riskante Bereiche in deiner Nähe anzuzeigen. Dein Standort wird ausschließlich zur Anzeige sicherer Bereiche auf der Karte verwendet.";
+location_settings_open = "Zu den Einstellungen";
+
+notification_settings_title = "Benachrichtigungseinstellungen";
+notification_main_toggle = "Benachrichtigungen von der App erhalten";
+notification_nearby_risks = "Risiken in der Nähe";
+notification_trusted_alerts = "Warnungen von Vertrauenspersonen";
+notification_info = "Wenn Benachrichtigungen deaktiviert sind, informiert SafeMap dich nicht über nahegelegene Risiken oder Vertrauenspersonen.";
+
+my_reports_title = "Meine Meldungen";
+my_reports_empty_title = "Noch keine Meldungen hinzugefügt";
+my_reports_empty_description = "Wenn du eine Meldung zu einem Bereich auf der Karte hinzufügst, erscheint sie hier.";
+
+about_title = "Über SafeMap";
+about_what_title = "Was ist SafeMap?";
+about_description = "SafeMap ist eine Kartenanwendung, die sichere und riskante Bereiche durch Beiträge der Community sichtbar macht.\n\nNutzer teilen ihre Erfahrungen, um andere über ihre Umgebung zu informieren. Unser Ziel ist es, einen digitalen Raum zu schaffen, in dem sich alle sicherer fühlen können.";
+
+community_rules_title = "Community-Regeln";
+
+rule_respect_title = "Respektvoll bleiben";
+rule_respect_desc = "Beleidigende, bedrohliche oder hasserfüllte Inhalte sind nicht erlaubt.";
+
+rule_truth_title = "Wahre Informationen teilen";
+rule_truth_desc = "Teile nur echte und selbst erlebte Erfahrungen.";
+
+rule_privacy_title = "Privatsphäre respektieren";
+rule_privacy_desc = "Teile keine persönlichen Informationen, Namen oder Gesichter.";
+
+rule_protect_title = "Community schützen";
+rule_protect_desc = "Melde irreführende oder unangemessene Inhalte.";
+
+rules_warning = "Inhalte, die gegen die Regeln verstoßen, können entfernt und Konten gesperrt werden.";
+
+feedback_title = "Feedback";
+feedback_description = "Dein Feedback, das du mit uns teilen möchtest";
+feedback_send_button = "Senden";
+
+edit_profile_email = "E-Mail";
+
+location_status_on = "Standortfreigabe aktiviert";
+location_status_off = "Standortfreigabe deaktiviert";
+
+feedback_success_title = "Gesendet";
+feedback_success_message = "Vielen Dank für dein Feedback.";
+feedback_mail_error = "E-Mail konnte nicht gesendet werden. Bitte stelle sicher, dass auf deinem Gerät ein E-Mail-Konto eingerichtet ist.";
+
+report_nav_title = "Meldung hinzufügen";
+report_title = "Meldung für diesen Bereich abgeben";
+report_selected_location = "Ausgewählter Standort";
+report_safety_question = "Wie sicher ist dieser Bereich?";
+report_safe = "Sicher";
+report_medium = "Mittel";
+report_unsafe = "Unsicher";
+report_comment_title = "Kommentar";
+report_submit = "Senden";
+
+cluster_title = "Bereichsmeldungen";
+cluster_average = "Durchschnitt";
+cluster_directions = "Route";
+
+done = "Fertig";
+cancel = "Abbrechen";
+
+safe = "Sicher";
+medium_safe = "Mäßig sicher";
+unsafe = "Unsicher";
+
+delete = "Löschen";
+delete_report_title = "Meldung löschen";
+delete_report_message = "Möchtest du diese Meldung wirklich löschen?";
+delete_confirm = "Löschen";
+cancel = "Abbrechen";
+
+forgot_password = "Passwort vergessen?";
+forgot_password_title = "Passwort zurücksetzen";
+forgot_password_description = "Gib deine E-Mail-Adresse ein, wir senden dir einen Link zum Zurücksetzen des Passworts.";
+forgot_password_send = "Zurücksetzungs-E-Mail senden";
+forgot_password_success_title = "E-Mail gesendet";
+forgot_password_success_message = "Ein Link zum Zurücksetzen des Passworts wurde an deine E-Mail-Adresse gesendet.";
+
